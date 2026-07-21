@@ -20,6 +20,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-4761-6094"
     affiliation: "Cornell University"
 version: "1.0.0"
+doi: "https://doi.org/10.5281/zenodo.21479617"
 date-released: "2026-07-21"
 repository-code: "https://github.com/planzaprecisionag/STADS-eval-paper-supplementary-material"
 license: "CC-BY-4.0"
