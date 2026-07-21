@@ -1,10 +1,34 @@
-This repository contains the supplementary datasets, evaluation materials, and analysis code associated with the manuscript “Balancing Independence and Spatial Precision in Field Evaluation of Digital Crop Surveillance Tools.” Materials include de-identified blind paired-point and RTK-GNSS-guided scouting data, de-identified reviewer classifications, the reviewer-evaluation workbook template, reviewer classification rubric, RTK-GNSS data-collection form, and Python code used to generate the reported statistical analyses, figures, and tables. Confidential farm and field identifiers, precise geospatial coordinates, scouting photographs, personally identifiable information, proprietary STADS attributes, and anomaly-generation methods are excluded.
+# STADS Field Evaluation Supplementary Materials
 
--S1 contains deidentified blind paired point scouting observations
--S2 contains the deidentified Survey123 form and anomaly-informed RTK-GNSS-guided scouting observations
--S3 contains the an uncompleted reviewer evaluation workbook used to evaluate blind paired point observations
--S4 contains completed blind paired point scouting observation classification workbooks and the script used for analysis
--S5 contains the classification rubric used to guide classification of blind paired point observation data
--S6 contains equations to assess inter-rater agreement
--S7 contains representative examples of positive deviance, negative deviance, and unconfirmed anomaly output and photographs collected during anomaly-informed RTK-GNSS guided scouting
+This repository contains the supplementary datasets, evaluation materials, and analysis code associated with the manuscript:
 
+> **Balancing Independence and Spatial Precision in Field Evaluation of Digital Crop Surveillance Tools**
+
+The repository includes de-identified blind paired-point and anomaly-informed RTK-GNSS-guided scouting data, reviewer classifications, evaluation templates, classification guidance, inter-rater agreement equations, representative field examples, and the Python code used to generate the reported statistical analyses, figures, and tables.
+
+## Repository contents
+
+| Supplement | Description                                                                                                                                                                               |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **S1**     | De-identified blind paired-point scouting observations.                                                                                                                                   |
+| **S2**     | De-identified ArcGIS Survey123 form and anomaly-informed RTK-GNSS-guided scouting observations.                                                                                           |
+| **S3**     | Blank reviewer-evaluation workbook used to classify blind paired-point scouting observations.                                                                                             |
+| **S4**     | Completed reviewer-classification workbooks for the blind paired-point observations and the Python script used for analysis.                                                              |
+| **S5**     | Classification rubric used to guide reviewer interpretation of the blind paired-point scouting observations.                                                                              |
+| **S6**     | Equations and supporting documentation for the inter-rater agreement metrics used in the study.                                                                                           |
+| **S7**     | Representative examples of positive-deviance, negative-deviance, and unconfirmed STADS anomaly outputs, including photographs collected during anomaly-informed RTK-GNSS-guided scouting. |
+
+## Data confidentiality and exclusions
+
+The publicly available materials have been de-identified to protect participant privacy, grower confidentiality, and proprietary information.
+
+The following materials are not included:
+
+* Confidential farm and field identifiers
+* Precise geospatial coordinates
+* Personally identifiable scout information
+* Original scouting photographs, except for the selected examples included in S7
+* Proprietary STADS attributes
+* STADS anomaly-generation methods and internal model information
+
+The shared materials support reproduction of the data-processing, classification, inter-rater agreement, statistical-analysis, figure-generation, and table-generation workflows reported in the manuscript. However, the original STADS anomaly-generation process and complete spatial reconstruction of the field evaluation cannot be reproduced from the public materials.
