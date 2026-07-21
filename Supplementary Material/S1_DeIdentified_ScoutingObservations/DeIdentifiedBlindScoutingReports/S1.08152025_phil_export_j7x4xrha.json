@@ -1,0 +1,779 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207925,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 38,
+        "fieldname": "field38",
+        "acres": "16.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207926,
+        "cropdescription": "Soybeans",
+        "plantstage": null,
+        "comments": "Area where was wet. Field was worked, but is not planted. Significant difference.",
+        "scoutingrecordthreshold": false,
+        "fn": 38,
+        "fieldname": "field38",
+        "acres": "16.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207923,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 39,
+        "fieldname": "field38",
+        "acres": "31.50",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207924,
+        "cropdescription": "Soybeans",
+        "plantstage": null,
+        "comments": "Area where was wet. Field was worked, but is not planted. Significant difference.",
+        "scoutingrecordthreshold": false,
+        "fn": 39,
+        "fieldname": "field38",
+        "acres": "31.50",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207919,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207920,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. No visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207921,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 25\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207922,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. Visible differences are spotty population in this area",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207919,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207920,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. No visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207921,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 25\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207922,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. Visible differences are spotty population in this area",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207919,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207920,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. No visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207921,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 25\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207922,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. Visible differences are spotty population in this area",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207919,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207920,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. No visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207921,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 25\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207922,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage. Visible differences are spotty population in this area",
+        "scoutingrecordthreshold": false,
+        "fn": 40,
+        "fieldname": "field39",
+        "acres": "32.80",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207925,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys look great. R4 stage, pushing R5. Great color, healthy, good nodulation. 27\" tall. Slight Japanese beetle feeding. Slight deer damage",
+        "scoutingrecordthreshold": false,
+        "fn": 38,
+        "fieldname": "field38",
+        "acres": "16.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 08:46:11.693465",
+        "reportid": "640dc0fa-a91f-4e2e-bab3-0d45241fcace",
+        "scoutingrecordsid": 207926,
+        "cropdescription": "Soybeans",
+        "plantstage": null,
+        "comments": "Area where was wet. Field was worked, but is not planted. Significant difference.",
+        "scoutingrecordthreshold": false,
+        "fn": 38,
+        "fieldname": "field38",
+        "acres": "16.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    }
+]

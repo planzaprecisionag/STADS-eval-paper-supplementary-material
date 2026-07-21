@@ -1,0 +1,76 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-18 10:30:54.590296",
+        "reportid": "cac9abb9-4738-47f2-94ee-4d598cf95e76",
+        "scoutingrecordsid": 199619,
+        "cropdescription": "Soybeans",
+        "plantstage": "V7",
+        "comments": "Soybeans are 7.5\" spacing, 12-15\" tall. They look good with good color, excellent nodulation. Low Japanese beetle feeding. This is a lower lying area, 15' from a ditch (to the west).",
+        "scoutingrecordthreshold": false,
+        "fn": 35,
+        "fieldname": "field35",
+        "acres": "75.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-18 10:30:54.590296",
+        "reportid": "cac9abb9-4738-47f2-94ee-4d598cf95e76",
+        "scoutingrecordsid": 199620,
+        "cropdescription": "Soybeans",
+        "plantstage": "V7",
+        "comments": "Soybeans are 15\" spacing, 12-15\" tall. In picture, one row taken out by sprayer. They look good with good color, excellent nodulation. Low Japanese beetle feeding. To the west the spacing goes into 7.5\" spacing (assuming due to drill width and ditch). No visible differences beyond row spacing.",
+        "scoutingrecordthreshold": false,
+        "fn": 35,
+        "fieldname": "field35",
+        "acres": "75.00",
+        "farmnumber": 8,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    }
+]

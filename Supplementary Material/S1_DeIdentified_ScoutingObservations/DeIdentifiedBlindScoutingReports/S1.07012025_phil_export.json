@@ -1,0 +1,888 @@
+[
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193197,
+        "cropdescription": "Peas",
+        "plantstage": "11 pairs of leaves pod to early flower",
+        "comments": "point b .Very good stand of peas , weeds are small , no sign of diseases.",
+        "scoutingrecordthreshold": false,
+        "fn": 13,
+        "fieldname": "field13",
+        "acres": "25.80",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Chickweed",
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193198,
+        "cropdescription": "Peas",
+        "plantstage": "11 pairs of leaves pods to flower",
+        "comments": "Point a , very good stand of peas. Very low weed pressure, good color , very uniform stand",
+        "scoutingrecordthreshold": false,
+        "fn": 13,
+        "fieldname": "field13",
+        "acres": "25.80",
+        "farmnumber": 5,
+        "observations": []
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193197,
+        "cropdescription": "Peas",
+        "plantstage": "11 pairs of leaves pod to early flower",
+        "comments": "point b .Very good stand of peas , weeds are small , no sign of diseases.",
+        "scoutingrecordthreshold": false,
+        "fn": 13,
+        "fieldname": "field13",
+        "acres": "25.80",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Chickweed",
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193198,
+        "cropdescription": "Peas",
+        "plantstage": "11 pairs of leaves pods to flower",
+        "comments": "Point a , very good stand of peas. Very low weed pressure, good color , very uniform stand",
+        "scoutingrecordthreshold": false,
+        "fn": 13,
+        "fieldname": "field13",
+        "acres": "25.80",
+        "farmnumber": 5,
+        "observations": []
+    },
+    {
+        "scout": "scout2",
+        "submissiontimestamp": "2025-07-02 19:11:22.056174",
+        "reportid": "f6a9ac52-b0a4-44dd-8eb0-e8d0dbf43e81",
+        "scoutingrecordsid": 193874,
+        "cropdescription": "Corn Silage",
+        "plantstage": "spike",
+        "comments": "Trial point B\nLight ragweed is dead/dying. No healthy weed pressure. \nSlightly elevated area compared to rest of field. \nCorn showing good color. Corn is still emerging. Population is low due to later emergence.",
+        "scoutingrecordthreshold": false,
+        "fn": 14,
+        "fieldname": "field14",
+        "acres": "63.50",
+        "farmnumber": 6,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Spike corn"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 22.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout2",
+        "submissiontimestamp": "2025-07-02 19:11:22.056174",
+        "reportid": "f6a9ac52-b0a4-44dd-8eb0-e8d0dbf43e81",
+        "scoutingrecordsid": 193875,
+        "cropdescription": "Corn Silage",
+        "plantstage": "spike - 1 leaf",
+        "comments": "Trial point A\nRagweed in this area reached up to 10 inches but is dead/dying. No healthy weed pressure. \nSlightly elevated area compared to rest of field. \nCorn showing good color. Some later emergence but population is good.",
+        "scoutingrecordthreshold": false,
+        "fn": 14,
+        "fieldname": "field14",
+        "acres": "63.50",
+        "farmnumber": 6,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Spike to 1 leaf corn"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 27.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout5",
+        "submissiontimestamp": "2025-07-01 10:54:50.701869",
+        "reportid": "57610be8-a64b-4f20-b8c5-43dc4524995d",
+        "scoutingrecordsid": 192822,
+        "cropdescription": "Corn Grain",
+        "plantstage": "9 leaf (knee high)",
+        "comments": "Point B\nLittle bit of nutsedge, lambsquarter is dying\nCorn is a good green with a little bit of injury\nTook populations directly next to each other. Just south of a wet spot that is not planted.",
+        "scoutingrecordthreshold": false,
+        "fn": 15,
+        "fieldname": "field15",
+        "acres": "44.60",
+        "farmnumber": 7,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is where the point is"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is where the point is"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is where the point is"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 35.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 29.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 35.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout5",
+        "submissiontimestamp": "2025-07-01 10:54:50.701869",
+        "reportid": "57610be8-a64b-4f20-b8c5-43dc4524995d",
+        "scoutingrecordsid": 192823,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V9 (about knee high)",
+        "comments": "Point A\nPopulations were taken directly next to each other\nSome nutsedge, smartweed is dying\nLocation is right at the edge of the wet area, where the planter edged around it\nCorn is a good green with minor damage, very little visual difference between the two spots",
+        "scoutingrecordthreshold": false,
+        "fn": 15,
+        "fieldname": "field15",
+        "acres": "44.60",
+        "farmnumber": 7,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is at the point"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is at the point"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Tape measure is at the point"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "The wer spot"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 22.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 17.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 22.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout6",
+        "submissiontimestamp": "2025-06-27 18:59:36.410515",
+        "reportid": "935fb868-a395-4e4d-82a6-a77876051afe",
+        "scoutingrecordsid": 191995,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V2/V3",
+        "comments": "I didn't see any weeds but I did see signs of cutworm but didn't find it.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Black Cutworm",
+                "pestcount": 1.0,
+                "pestdenominator": 100.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 34.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 35.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 36.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193173,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Trial spot B: Good population/color and maturity/",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Corn silage"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193174,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Trial spot A: Corn has good color, maturity and population. This spot is lower than spot B. Otherwise, crop condition is the same.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 33.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193175,
+        "cropdescription": "Corn Silage",
+        "plantstage": null,
+        "comments": "Trial spot B #2 at the back of the field/ section of field is currently Fallow due to land owners request.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": true,
+                "weed": "Nutsedge",
+                "severity": 3,
+                "extent": "Spots"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193176,
+        "cropdescription": "Corn Silage",
+        "plantstage": null,
+        "comments": "Trial spot A #2 at the back of the field/ section of field is currently Fallow due to land owners request/ this section is lower than B.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Buttercup",
+                "severity": 2,
+                "extent": "Spots"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout6",
+        "submissiontimestamp": "2025-06-27 18:59:36.410515",
+        "reportid": "935fb868-a395-4e4d-82a6-a77876051afe",
+        "scoutingrecordsid": 191995,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V2/V3",
+        "comments": "I didn't see any weeds but I did see signs of cutworm but didn't find it.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Black Cutworm",
+                "pestcount": 1.0,
+                "pestdenominator": 100.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 34.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 35.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 36.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193173,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Trial spot B: Good population/color and maturity/",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": "Corn silage"
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193174,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Trial spot A: Corn has good color, maturity and population. This spot is lower than spot B. Otherwise, crop condition is the same.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 33.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193175,
+        "cropdescription": "Corn Silage",
+        "plantstage": null,
+        "comments": "Trial spot B #2 at the back of the field/ section of field is currently Fallow due to land owners request.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": true,
+                "weed": "Nutsedge",
+                "severity": 3,
+                "extent": "Spots"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193176,
+        "cropdescription": "Corn Silage",
+        "plantstage": null,
+        "comments": "Trial spot A #2 at the back of the field/ section of field is currently Fallow due to land owners request/ this section is lower than B.",
+        "scoutingrecordthreshold": false,
+        "fn": 19,
+        "fieldname": "field19",
+        "acres": "25.10",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Buttercup",
+                "severity": 2,
+                "extent": "Spots"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193171,
+        "cropdescription": "Alfalfa/Grass",
+        "plantstage": "Vegetative",
+        "comments": "Trial Spot A: Alfalfa/ grass mix had good color, some Weevil pressure and beneficial insects present.",
+        "scoutingrecordthreshold": false,
+        "fn": 22,
+        "fieldname": "field22",
+        "acres": "15.50",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            },
+            {
+                "category": "Hay Staging",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "percentgrass": 30.0,
+                "grassstage": null,
+                "legumestage": null,
+                "legumeheight": 24.0,
+                "grassheight": 27.0
+            }
+        ]
+    },
+    {
+        "scout": "scout3",
+        "submissiontimestamp": "2025-07-01 18:02:44.339024",
+        "reportid": "fbaa2112-9d46-401b-a036-e4f5bb76de1d",
+        "scoutingrecordsid": 193172,
+        "cropdescription": "Alfalfa/Grass",
+        "plantstage": "Vegetative",
+        "comments": "Trial Spot B: Alfalfa/ grass mix has good color/ some Weevil pressure/ some rust on grass/ section of field is lower than spot A",
+        "scoutingrecordthreshold": false,
+        "fn": 22,
+        "fieldname": "field22",
+        "acres": "15.50",
+        "farmnumber": 4,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            },
+            {
+                "category": "Hay Staging",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "percentgrass": 35.0,
+                "grassstage": null,
+                "legumestage": null,
+                "legumeheight": 23.0,
+                "grassheight": 33.0
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193201,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Weeds show burn tips , color is pale green  some interveinal chlorosis point b",
+        "scoutingrecordthreshold": false,
+        "fn": 23,
+        "fieldname": "field23",
+        "acres": "18.00",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Nutsedge",
+                "severity": 3,
+                "extent": "Area"
+            },
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193202,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V4",
+        "comments": "Point a, nutsedge shows herbicide control. Decent color for early stage.",
+        "scoutingrecordthreshold": false,
+        "fn": 23,
+        "fieldname": "field23",
+        "acres": "18.00",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Weed",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "weed": "Nutsedge",
+                "severity": 3,
+                "extent": "Area"
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193199,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V8",
+        "comments": "Point b, minor discoloration. Leaf stripes at this point. Leaves are narrow as well.",
+        "scoutingrecordthreshold": false,
+        "fn": 24,
+        "fieldname": "field24",
+        "acres": "14.20",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Other",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "description": null
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-01 18:04:35.278126",
+        "reportid": "93172b79-4951-4f14-9a49-e2fa47fef495",
+        "scoutingrecordsid": 193200,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V8",
+        "comments": "Point a , good color , wider leaf blades, see photo.",
+        "scoutingrecordthreshold": false,
+        "fn": 24,
+        "fieldname": "field24",
+        "acres": "14.20",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    }
+]
