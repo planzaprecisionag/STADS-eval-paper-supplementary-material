@@ -1,0 +1,218 @@
+{
+  "counts": {
+    "anomaly_confirmation_evaluable": 53,
+    "anomaly_confirmed": 44,
+    "completed_non_target_pairs_excluded": 2,
+    "completed_pairs": 59,
+    "composite_evaluable": 53,
+    "direction_agreement": 37,
+    "direction_evaluable": 43,
+    "full_correspondence": 37,
+    "no_correspondence": 9,
+    "original_planned_pairs": 85,
+    "presence_only_correspondence": 7,
+    "replacement_pairs_added": 1,
+    "retained_analysis_pairs": 57,
+    "scouted_pairs": 59,
+    "truly_unscouted_original_pairs": 27
+  },
+  "endpoint_evaluability": {
+    "confirmation_non_evaluable_comparison_patterns": {
+      "inside=Same;outside=Worse": 3,
+      "inside=Worse;outside=Same": 1
+    },
+    "confirmation_non_evaluable_pairs": 4,
+    "confirmation_non_evaluable_rule": "One pair member was rated Same and the other Better or Worse",
+    "confirmed_but_direction_non_evaluable_pairs": 1,
+    "direction_non_evaluable_comparison_patterns": {
+      "inside=Better;outside=Better": 1
+    },
+    "direction_non_evaluable_rule": "Inside/outside comparisons produced conflicting positive and negative cues",
+    "retained_pairs": 57
+  },
+  "expected_counts": {
+    "anomaly_confirmation_evaluable": 53,
+    "anomaly_confirmed": 44,
+    "completed_non_target_pairs_excluded": 2,
+    "completed_pairs": 59,
+    "composite_evaluable": 53,
+    "direction_agreement": 37,
+    "direction_evaluable": 43,
+    "full_correspondence": 37,
+    "no_correspondence": 9,
+    "original_planned_pairs": 85,
+    "presence_only_correspondence": 7,
+    "replacement_pairs_added": 1,
+    "retained_analysis_pairs": 57,
+    "scouted_pairs": 59,
+    "truly_unscouted_original_pairs": 27
+  },
+  "generated_utc": "2026-08-20T19:29:53.771752+00:00",
+  "privacy_checks": [
+    "Only allowlisted columns are written to public CSV files",
+    "Precise geometry, coordinates, anomaly polygons, and numeric anomaly scores are absent",
+    "Internal pair, farm, region, and field identifiers are replaced by public IDs",
+    "Survey123 GUIDs, creator/editor fields, photo paths, and local paths are absent",
+    "Free-text observations and correction notes are absent",
+    "Exclusion reasons are restricted to reviewed public categories"
+  ],
+  "public_columns": {
+    "rtk_analysis_records.csv": [
+      "public_pair_id",
+      "public_field_cluster_id",
+      "crop",
+      "inside_comparison",
+      "outside_comparison",
+      "anomaly_confirmation_evaluable",
+      "anomaly_confirmed",
+      "observed_direction",
+      "stads_direction",
+      "direction_evaluable",
+      "direction_agreement",
+      "composite_evaluable",
+      "composite_classification"
+    ],
+    "rtk_endpoint_summary.csv": [
+      "analysis",
+      "group",
+      "n_evaluable",
+      "n_success",
+      "percent",
+      "field_clusters",
+      "field_cluster_bootstrap_ci_lower_percent",
+      "field_cluster_bootstrap_ci_upper_percent",
+      "bootstrap_replicates",
+      "random_seed"
+    ],
+    "rtk_record_reconciliation.csv": [
+      "public_pair_id",
+      "original_or_replacement",
+      "planned",
+      "scouted",
+      "completed",
+      "retained_for_analysis",
+      "anomaly_confirmation_evaluable",
+      "direction_evaluable",
+      "composite_evaluable",
+      "record_flow_classification",
+      "exclusion_stage",
+      "exclusion_reason",
+      "crop"
+    ]
+  },
+  "public_exclusion_reason_counts": {
+    "Inaccessible: flooded access": 1,
+    "Incorrect crop or clover": 12,
+    "Missed during scouting": 5,
+    "Post-scouting non-target area": 1,
+    "Post-scouting non-target crop": 1,
+    "Restricted access: active mine": 9
+  },
+  "public_id_notes": {
+    "field_cluster_ids": "Sequential RTKF- identifiers preserving clustering; internal crosswalk not released",
+    "pair_ids": "Sequential RTK- identifiers; internal crosswalk not released"
+  },
+  "record_flow_classification_counts": {
+    "completed_excluded": 2,
+    "retained_original": 56,
+    "retained_replacement": 1,
+    "unscouted_original": 27
+  },
+  "schema_version": "2.0",
+  "script_version": "2.0.0",
+  "source_fingerprints": {
+    "corrected_all_records": {
+      "sha256": "04e53882cc053795e0c06a3f3527c073a23ed749bc2cf160c8746562dd8baa93",
+      "size_bytes": 388594
+    },
+    "corrected_analysis_records": {
+      "sha256": "ed67bd8a8db44a34d8c09f0584a0be977c83a07f99b51106dca75cb3bad5be6e",
+      "size_bytes": 371521
+    },
+    "internal_bootstrap_csv": {
+      "sha256": "c8a7696b9da1e351bfe91a5d2ecf87b1f4b7891fec2fc9f03e269fd0e98f87ca",
+      "size_bytes": 1303
+    },
+    "internal_bootstrap_json": {
+      "sha256": "a32a0b3776b966ce0833f28a998493ed74d0290c31ce2a8feb964ea3562ed533",
+      "size_bytes": 4431
+    },
+    "internal_correction_audit": {
+      "sha256": "7343871a08b37652d14c0a376a29244900cedac1beffcb89501e7ee2a9996c1c",
+      "size_bytes": 5703
+    },
+    "internal_record_flow_workbook": {
+      "sha256": "3d0286e68b85df04c4b4c30206ab8b0fa2329cfb4820a7e5a6ea7fddbed38e9a",
+      "size_bytes": 10372
+    },
+    "planned_exclusion_manifest": {
+      "sha256": "a000ddef715a7e98237aea762c67a5e9b75fe4afa0e8f0d9e947efe6b5eb8ffe",
+      "size_bytes": 2925
+    },
+    "planned_point_source_a": {
+      "sha256": "9b2543f2a6b5cbb0794cd79ba1aa9f549a67dec4c21bf54fac342c0738ae75ab",
+      "size_bytes": 32800
+    },
+    "planned_point_source_b": {
+      "sha256": "29df93dc90ef4e985d48a5af9c0482f1afb9b92ef6ca88821c6dd81212ef1cf9",
+      "size_bytes": 1122304
+    },
+    "planned_point_source_c": {
+      "sha256": "73c755c9233f2571b6ac504e51d4911239d45fc96da5a4c52b57a99474c60059",
+      "size_bytes": 122880
+    }
+  },
+  "source_validation": {
+    "bootstrap_outputs": {
+      "bootstrap_algorithm": "Sample field clusters with replacement; retain all records from each sampled cluster; calculate the rate for each replicate; use the 2.5th and 97.5th percentiles.",
+      "random_number_generator": "numpy.random.default_rng",
+      "rows_checked_between_csv_and_json": 11,
+      "rows_regenerated_from_public_analysis_records": 11,
+      "status": "PASS"
+    },
+    "corrected_geojsons": {
+      "all_record_pairs_including_technical_duplicate": 60,
+      "all_records": 120,
+      "anonymized_retained_field_clusters": 17,
+      "genuine_completed_pairs": 59,
+      "retained_pairs": 57,
+      "retained_records": 114,
+      "status": "PASS",
+      "technical_duplicate_records": 2
+    },
+    "correction_audit": {
+      "counts_checked": 15,
+      "excluded_pair_categories_checked": 3,
+      "planned_source_corrections_checked": 2,
+      "record_corrections_checked": 6,
+      "status": "PASS"
+    },
+    "exclusion_manifest": {
+      "completed_rows": 1,
+      "rows_checked": 28,
+      "status": "PASS",
+      "unscouted_rows": 27
+    },
+    "planned_sources": {
+      "planned_pairs": 85,
+      "planned_point_records": 170,
+      "planned_source_corrections_applied": 2,
+      "planned_source_count": 3,
+      "status": "PASS"
+    },
+    "record_flow_workbook": {
+      "completed_pair_reconciliation_rows_checked": 3,
+      "manifest_rows_checked": 28,
+      "record_flow_values_checked": 7,
+      "sheets_checked": 3,
+      "status": "PASS"
+    }
+  },
+  "status": "PASS",
+  "unscouted_reason_counts": {
+    "inaccessible_flooded_access": 1,
+    "incorrect_crop_or_clover": 12,
+    "restricted_active_mine": 9,
+    "scouting_error_missed": 5
+  }
+}

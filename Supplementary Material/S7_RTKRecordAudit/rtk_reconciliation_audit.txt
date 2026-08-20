@@ -1,0 +1,58 @@
+RTK RECORD RECONCILIATION AND ANALYSIS AUDIT
+================================================
+Script version: 2.0.0
+Generated (UTC): 2026-08-20T19:29:53.771752+00:00
+Overall status: PASS
+
+RECORD FLOW AND ENDPOINT COUNTS
+--------------------------------
+original_planned_pairs: 85 (expected 85) [PASS]
+replacement_pairs_added: 1 (expected 1) [PASS]
+truly_unscouted_original_pairs: 27 (expected 27) [PASS]
+scouted_pairs: 59 (expected 59) [PASS]
+completed_pairs: 59 (expected 59) [PASS]
+completed_non_target_pairs_excluded: 2 (expected 2) [PASS]
+retained_analysis_pairs: 57 (expected 57) [PASS]
+anomaly_confirmation_evaluable: 53 (expected 53) [PASS]
+anomaly_confirmed: 44 (expected 44) [PASS]
+direction_evaluable: 43 (expected 43) [PASS]
+direction_agreement: 37 (expected 37) [PASS]
+composite_evaluable: 53 (expected 53) [PASS]
+full_correspondence: 37 (expected 37) [PASS]
+presence_only_correspondence: 7 (expected 7) [PASS]
+no_correspondence: 9 (expected 9) [PASS]
+
+UNSCOUTED ORIGINAL-PAIR REASONS
+--------------------------------
+restricted_active_mine: 9
+incorrect_crop_or_clover: 12
+scouting_error_missed: 5
+inaccessible_flooded_access: 1
+
+SOURCE VALIDATION
+-----------------
+planned_sources: PASS
+exclusion_manifest: PASS
+corrected_geojsons: PASS
+correction_audit: PASS
+record_flow_workbook: PASS
+bootstrap_outputs: PASS
+
+PRIVACY VALIDATION
+------------------
+[PASS] Only allowlisted columns are written to public CSV files
+[PASS] Precise geometry, coordinates, anomaly polygons, and numeric anomaly scores are absent
+[PASS] Internal pair, farm, region, and field identifiers are replaced by public IDs
+[PASS] Survey123 GUIDs, creator/editor fields, photo paths, and local paths are absent
+[PASS] Free-text observations and correction notes are absent
+[PASS] Exclusion reasons are restricted to reviewed public categories
+
+BOOTSTRAP VALIDATION
+--------------------
+CSV/JSON rows checked: 11 [PASS]
+Rows regenerated from public analysis records: 11 [PASS]
+
+ENDPOINT EVALUABILITY
+--------------------
+Confirmation-non-evaluable retained pairs: 4
+Confirmed but direction-non-evaluable pairs: 1
