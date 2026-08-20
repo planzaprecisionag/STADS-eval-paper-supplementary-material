@@ -33,4 +33,4 @@ The following materials are not included:
 
 The shared materials support reproduction of the data-processing, classification, inter-rater agreement, statistical-analysis, figure-generation, and table-generation workflows reported in the manuscript. However, the original STADS anomaly-generation process and complete spatial reconstruction of the field evaluation cannot be reproduced from the public materials.
 
-DOI: https://zenodo.org/records/21479617
+DOI: [https://zenodo.org/records/21479617](https://doi.org/10.5281/zenodo.22035280)
