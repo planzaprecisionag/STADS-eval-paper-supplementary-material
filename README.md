@@ -15,8 +15,8 @@ The repository includes de-identified blind paired-point and anomaly-informed RT
 | **S3**     | Blank reviewer-evaluation workbook used to classify blind paired-point scouting observations.                                                                                             |
 | **S4**     | Completed reviewer-classification workbooks for the blind paired-point observations and the Python script used for analysis.                                                              |
 | **S5**     | Classification rubric used to guide reviewer interpretation of the blind paired-point scouting observations.                                                                              |
-| **S6**     | Equations and supporting documentation for the inter-rater agreement metrics used in the study.                                                                                           |
-| **S7**     | Representative examples of positive-deviance, negative-deviance, and unconfirmed STADS anomaly outputs, including photographs collected during anomaly-informed RTK-GNSS-guided scouting. |
+| **S6**     | Representative examples of positive-deviance, negative-deviance, and unconfirmed STADS anomaly outputs, including photographs collected during anomaly-informed RTK-GNSS-guided scouting. |                                                                                           |
+| **S7**     | Records reconciliation and audit for RTK-GNSS-guided scouting observations.                                                                                                               |
 
 ## Data confidentiality and exclusions
 
