@@ -1,4 +1,4 @@
-# STADS Field Evaluation Supplementary Materials
+# Online Resources / Supplementary Materials for A Composite Field-Evaluation Framework for Spatial Digital Agriculture Outputs: Balancing Observer Independence and Spatial Precision, v1.10
 
 This repository contains the supplementary datasets, evaluation materials, and analysis code associated with the manuscript:
 
