@@ -1,0 +1,61 @@
+reviewer_set,pair_id,presentation,n_valid,mean_support,strict,moderate,liberal,confidence_weighted_support,confidence_weighted,anomaly_mode,direction_mode_reoriented
+all_reviewers,BL-071,1,5,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-071,2,4,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-073,1,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-073,2,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-079,1,5,0.3,False,False,True,0.2727272727272727,False,Possibly Confirmed,Negative
+all_reviewers,BL-079,2,5,0.3,False,False,True,0.3,False,Possibly Confirmed,Positive
+all_reviewers,BL-080,1,5,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-080,2,5,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-081,1,5,0.7,False,True,True,0.7727272727272727,True,Confirmed,Negative
+all_reviewers,BL-081,2,4,0.875,True,True,True,0.9444444444444444,True,Confirmed,Negative
+all_reviewers,BL-083,1,5,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-083,2,4,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-084,1,5,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-084,2,4,0.0,False,False,False,0.0,False,Not Confirmed,
+all_reviewers,BL-085,1,5,0.7,False,True,True,0.7500000000000001,True,Confirmed,Negative
+all_reviewers,BL-085,2,4,0.875,True,True,True,0.9000000000000001,True,Confirmed,Negative
+all_reviewers,BL-087,1,5,0.9,True,True,True,0.9230769230769232,True,Confirmed,Negative
+all_reviewers,BL-087,2,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-088,1,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-088,2,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-089,1,5,0.9,True,True,True,0.9285714285714284,True,Confirmed,Negative
+all_reviewers,BL-089,2,5,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-090,1,4,0.5,False,False,True,0.5,True,Tie,Negative
+all_reviewers,BL-090,2,4,0.25,False,False,False,0.25,False,Not Confirmed,Positive
+all_reviewers,BL-091,1,5,0.9,True,True,True,0.9,True,Confirmed,Negative
+all_reviewers,BL-091,2,4,1.0,True,True,True,1.0,True,Confirmed,Negative
+all_reviewers,BL-036,1,4,0.875,True,True,True,0.9500000000000002,True,Confirmed,Negative
+all_reviewers,BL-036,2,5,0.9,True,True,True,0.9545454545454548,True,Confirmed,Negative
+all_reviewers,BL-039,1,5,0.5,False,True,True,0.4545454545454545,False,Possibly Confirmed,Negative
+all_reviewers,BL-039,2,4,0.625,False,True,True,0.625,True,Possibly Confirmed,Negative
+masked_reviewers_only,BL-071,1,4,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-071,2,3,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-073,1,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-073,2,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-079,1,4,0.25,False,False,True,0.2222222222222222,False,Tie,Negative
+masked_reviewers_only,BL-079,2,4,0.25,False,False,True,0.25,False,Tie,Tie
+masked_reviewers_only,BL-080,1,4,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-080,2,4,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-081,1,4,0.625,False,True,True,0.6875,True,Confirmed,Negative
+masked_reviewers_only,BL-081,2,3,0.8333333333333334,False,True,True,0.9166666666666669,True,Confirmed,Negative
+masked_reviewers_only,BL-083,1,4,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-083,2,3,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-084,1,4,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-084,2,3,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-085,1,4,0.625,False,True,True,0.6666666666666667,True,Confirmed,Negative
+masked_reviewers_only,BL-085,2,3,0.8333333333333334,False,True,True,0.8571428571428572,True,Confirmed,Negative
+masked_reviewers_only,BL-087,1,4,0.875,True,True,True,0.9000000000000001,True,Confirmed,Negative
+masked_reviewers_only,BL-087,2,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-088,1,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-088,2,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-089,1,4,0.875,True,True,True,0.9090909090909092,True,Confirmed,Negative
+masked_reviewers_only,BL-089,2,4,1.0,True,True,True,1.0,True,Confirmed,Tie
+masked_reviewers_only,BL-090,1,3,0.3333333333333333,False,False,False,0.3333333333333333,False,Not Confirmed,Negative
+masked_reviewers_only,BL-090,2,3,0.0,False,False,False,0.0,False,Not Confirmed,
+masked_reviewers_only,BL-091,1,4,0.875,True,True,True,0.875,True,Confirmed,Negative
+masked_reviewers_only,BL-091,2,3,1.0,True,True,True,1.0,True,Confirmed,Negative
+masked_reviewers_only,BL-036,1,3,0.8333333333333334,False,True,True,0.9285714285714288,True,Confirmed,Negative
+masked_reviewers_only,BL-036,2,4,0.875,True,True,True,0.9375000000000002,True,Confirmed,Tie
+masked_reviewers_only,BL-039,1,4,0.375,False,True,True,0.3333333333333333,False,Possibly Confirmed,Negative
+masked_reviewers_only,BL-039,2,3,0.5,False,True,True,0.5,True,Possibly Confirmed,Negative

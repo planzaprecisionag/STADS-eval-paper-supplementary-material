@@ -1,0 +1,668 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207927,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207928,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thicker population than other area, still on shorter side, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, around 12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207929,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-20\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207930,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding. No visible differences between spots",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207931,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207932,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding. no visible differences between areas",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207927,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207928,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thicker population than other area, still on shorter side, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, around 12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207929,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-20\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207930,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding. No visible differences between spots",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207931,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207932,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding. no visible differences between areas",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207927,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207928,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thicker population than other area, still on shorter side, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, around 12\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207929,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-20\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207930,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 9-12\" tall. Slight Japanese beetle feeding. No visible differences between spots",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207931,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding.",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-15 09:49:56.841357",
+        "reportid": "7d0b4e84-4ba2-4dd2-b204-03bf4849d56d",
+        "scoutingrecordsid": 207932,
+        "cropdescription": "Soybeans",
+        "plantstage": "R4",
+        "comments": "Soys in this spot have a thinner population, shorter, taking heavy deer damage. R4 stage, good color, healthy, good nodulation, but only 12-15\" tall. Slight Japanese beetle feeding. no visible differences between areas",
+        "scoutingrecordthreshold": false,
+        "fn": 41,
+        "fieldname": "field40",
+        "acres": "28.10",
+        "farmnumber": 11,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    }
+]

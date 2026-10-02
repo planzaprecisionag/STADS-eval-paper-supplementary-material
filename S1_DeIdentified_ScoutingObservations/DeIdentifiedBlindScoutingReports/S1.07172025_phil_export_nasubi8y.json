@@ -1,0 +1,124 @@
+[
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199279,
+        "cropdescription": "Idle",
+        "plantstage": "No corn planted in this section",
+        "comments": "Point b, dead cover crop with some weeds .",
+        "scoutingrecordthreshold": false,
+        "fn": 32,
+        "fieldname": "field32",
+        "acres": "22.00",
+        "farmnumber": 5,
+        "observations": []
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199280,
+        "cropdescription": "",
+        "plantstage": "V9",
+        "comments": "Point a 5 foot , 6 inch tall corn fairly uniform, som yellow minor streaks. There is break through of more weeds that have emerged",
+        "scoutingrecordthreshold": false,
+        "fn": 32,
+        "fieldname": "field32",
+        "acres": "22.00",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": "Please with cover crop residue.",
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199277,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Point a just about ready to tassel. Very good uniform stand.",
+        "scoutingrecordthreshold": false,
+        "fn": 33,
+        "fieldname": "field33",
+        "acres": "56.30",
+        "farmnumber": 5,
+        "observations": []
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199278,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Point b , very tall corn 8 foot tall, some minor discolor intervals.",
+        "scoutingrecordthreshold": false,
+        "fn": 33,
+        "fieldname": "field33",
+        "acres": "56.30",
+        "farmnumber": 5,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199275,
+        "cropdescription": "Corn Silage",
+        "plantstage": "No corn section",
+        "comments": "Point b A section where they did not plant",
+        "scoutingrecordthreshold": false,
+        "fn": 34,
+        "fieldname": "field34",
+        "acres": "63.40",
+        "farmnumber": 5,
+        "observations": []
+    },
+    {
+        "scout": "scout4",
+        "submissiontimestamp": "2025-07-17 12:15:25.214682",
+        "reportid": "524bd84d-ba10-4ede-b009-51a848d14f6a",
+        "scoutingrecordsid": 199276,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V11",
+        "comments": "point a. Tall corn 6 feet By 6 inches , good color, fairly uniform .",
+        "scoutingrecordthreshold": false,
+        "fn": 34,
+        "fieldname": "field34",
+        "acres": "63.40",
+        "farmnumber": 5,
+        "observations": []
+    }
+]

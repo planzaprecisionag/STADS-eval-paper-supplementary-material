@@ -1,0 +1,18 @@
+{
+  "planned_blind_pairs": 99,
+  "retained_blind_pairs": 55,
+  "linked_points": 110,
+  "direct_links": 96,
+  "inferred_links": 14,
+  "target_ratings": 275,
+  "reversed_pair_comparisons": 75,
+  "presence_evaluable": 53,
+  "moderate_confirmed": 25,
+  "composite_counts": {
+    "No correspondence": 28,
+    "Full correspondence": 18,
+    "Presence-only correspondence": 7,
+    "": 2
+  },
+  "rtk_summary_rows_verified": 11
+}

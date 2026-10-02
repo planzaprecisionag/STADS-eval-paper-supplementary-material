@@ -1,0 +1,56 @@
+pair_id,field_id,crop,stads_direction,n_presence_valid,n_direction_valid,presence_evaluable,confidence_weighted_support,consensus_direction,direction_evaluable,direction_match,presence_mode,Strict,Moderate,Liberal,Confidence-weighted,composite
+BL-001,BF-024,Corn Silage,Negative,5,3,True,0.25000000000000006,Negative,True,True,Possibly Confirmed,False,False,True,False,No correspondence
+BL-002,BF-024,Corn Silage,Positive,2,1,True,0.2,Negative,True,False,Tie,False,False,True,False,No correspondence
+BL-003,BF-023,Alfalfa/Grass,Positive,5,4,True,0.4444444444444444,Tie,False,False,Possibly Confirmed,False,True,True,False,Presence-only correspondence
+BL-006,BF-008,Corn Silage,Negative,4,3,True,0.8,Positive,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+BL-007,BF-017,Corn Silage,Positive,5,5,True,0.9583333333333333,Negative,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+BL-008,BF-050,Corn Silage,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-009,BF-050,Corn Silage,Negative,3,1,True,0.14285714285714288,Positive,True,False,Not Confirmed,False,False,False,False,No correspondence
+BL-010,BF-052,Corn Silage,Positive,5,4,True,0.5,Positive,True,True,Possibly Confirmed,False,True,True,True,Full correspondence
+BL-011,BF-005,Alfalfa/Grass,Positive,1,1,False,0.5,Positive,True,True,Possibly Confirmed,False,False,False,False,
+BL-012,BF-049,Alfalfa/Grass,Positive,1,0,False,0.0,,False,False,Not Confirmed,False,False,False,False,
+BL-013,BF-048,Alfalfa/Grass,Positive,2,0,True,0.125,,False,False,Tie,False,False,True,False,No correspondence
+BL-014,BF-040,Corn Silage,Negative,5,2,True,0.27272727272727276,Tie,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-015,BF-039,Corn Silage,Negative,5,2,True,0.05,Positive,True,False,Not Confirmed,False,False,False,False,No correspondence
+BL-017,BF-035,Corn Silage,Negative,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-018,BF-036,Corn Silage,Negative,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-019,BF-030,Alfalfa,Positive,5,2,True,0.15,Negative,True,False,Not Confirmed,False,False,False,False,No correspondence
+BL-020,BF-047,Corn Grain,Negative,5,2,True,0.35,Tie,False,False,Tie,False,False,True,False,No correspondence
+BL-021,BF-004,Corn Silage,Negative,4,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-022,BF-009,Corn Silage,Positive,4,1,True,0.0625,Negative,True,False,Not Confirmed,False,False,False,False,No correspondence
+BL-024,BF-006,Corn Silage,Negative,5,5,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-025,BF-006,Corn Silage,Positive,5,5,True,1.0,Positive,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-026,BF-019,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-027,BF-018,Corn Silage,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-028,BF-016,Corn Silage,Negative,5,5,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-029,BF-016,Corn Silage,Positive,4,4,True,1.0,Negative,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+BL-030,BF-022,Corn Silage,Negative,4,4,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-031,BF-001,Corn Silage,Positive,5,2,True,0.2692307692307693,Positive,True,True,Not Confirmed,False,False,False,False,No correspondence
+BL-033,BF-042,Corn Silage,Negative,5,4,True,0.7857142857142858,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-034,BF-037,Corn Silage,Negative,4,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-035,BF-032,Corn Silage,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-036,BF-033,Corn Silage,Negative,4,5,True,0.9500000000000002,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-037,BF-031,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-038,BF-028,Corn Silage,Negative,5,5,True,0.9230769230769231,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-039,BF-029,Corn Silage,Negative,5,4,True,0.45454545454545453,Negative,True,True,Possibly Confirmed,False,True,True,False,Full correspondence
+BL-040,BF-034,Corn Silage,Negative,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-041,BF-007,Corn Silage,Positive,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-042,BF-011,Soybeans,Positive,5,3,True,0.5833333333333334,Positive,True,True,Tie,False,False,True,True,No correspondence
+BL-050,BF-026,Soybeans,Positive,5,4,True,0.8333333333333334,Tie,False,False,Confirmed,True,True,True,True,Presence-only correspondence
+BL-062,BF-025,Soybeans,Negative,5,5,True,0.9230769230769231,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-065,BF-025,Soybeans,Positive,4,4,True,1.0,Negative,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+BL-068,BF-041,Soybeans,Negative,5,5,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-070,BF-015,Soybeans,Negative,4,4,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-071,BF-015,Soybeans,Negative,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-073,BF-014,Soybeans,Negative,4,4,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-079,BF-027,Soybeans,Negative,5,3,True,0.27272727272727276,Negative,True,True,Possibly Confirmed,False,False,True,False,No correspondence
+BL-080,BF-027,Soybeans,Negative,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-081,BF-027,Soybeans,Negative,5,4,True,0.7727272727272727,Negative,True,True,Confirmed,False,True,True,True,Full correspondence
+BL-083,BF-010,Soybeans,Positive,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-084,BF-010,Soybeans,Positive,5,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+BL-085,BF-010,Soybeans,Positive,5,4,True,0.7500000000000001,Negative,True,False,Confirmed,False,True,True,True,Presence-only correspondence
+BL-087,BF-044,Soybeans,Negative,5,5,True,0.9230769230769231,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-088,BF-044,Soybeans,Negative,4,4,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-089,BF-044,Soybeans,Negative,5,5,True,0.9285714285714285,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+BL-090,BF-044,Soybeans,Negative,4,2,True,0.5,Negative,True,True,Tie,False,False,True,True,No correspondence
+BL-091,BF-044,Soybeans,Negative,5,5,True,0.9,Negative,True,True,Confirmed,True,True,True,True,Full correspondence

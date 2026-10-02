@@ -1,0 +1,47 @@
+subset,endpoint,group,n,successes,percent,n_fields,ci_lower_percent,ci_upper_percent,bootstrap_replicates,seed
+All five reviewers,Strict,Overall,53,20,37.735849056603776,39,21.27659574468085,53.44827586206896,10000,20260812
+All five reviewers,Strict,Alfalfa,1,0,0.0,1,,,0,20260813
+All five reviewers,Strict,Alfalfa/Grass,2,0,0.0,2,0.0,0.0,10000,20260814
+All five reviewers,Strict,Corn Grain,1,0,0.0,1,,,0,20260815
+All five reviewers,Strict,Corn Silage,30,10,33.333333333333336,26,14.285714285714285,53.125,10000,20260816
+All five reviewers,Strict,Soybeans,19,10,52.63157894736842,9,22.22222222222222,82.35294117647058,10000,20260817
+All five reviewers,Moderate,Overall,53,25,47.16981132075472,39,32.0,61.111111111111114,10000,20260818
+All five reviewers,Moderate,Alfalfa,1,0,0.0,1,,,0,20260819
+All five reviewers,Moderate,Alfalfa/Grass,2,1,50.0,2,0.0,100.0,10000,20260820
+All five reviewers,Moderate,Corn Grain,1,0,0.0,1,,,0,20260821
+All five reviewers,Moderate,Corn Silage,30,12,40.0,26,20.0,60.0,10000,20260822
+All five reviewers,Moderate,Soybeans,19,12,63.1578947368421,9,42.857142857142854,83.33333333333334,10000,20260823
+All five reviewers,Liberal,Overall,53,32,60.37735849056604,39,44.680851063829785,74.24806576402312,10000,20260824
+All five reviewers,Liberal,Alfalfa,1,0,0.0,1,,,0,20260825
+All five reviewers,Liberal,Alfalfa/Grass,2,2,100.0,2,100.0,100.0,10000,20260826
+All five reviewers,Liberal,Corn Grain,1,1,100.0,1,,,0,20260827
+All five reviewers,Liberal,Corn Silage,30,14,46.666666666666664,26,26.666666666666668,66.66666666666666,10000,20260828
+All five reviewers,Liberal,Soybeans,19,15,78.94736842105263,9,57.89473684210527,97.21428571428467,10000,20260829
+All five reviewers,Confidence-weighted,Overall,53,25,47.16981132075472,39,30.765306122448983,62.96296296296296,10000,20260830
+All five reviewers,Confidence-weighted,Alfalfa,1,0,0.0,1,,,0,20260831
+All five reviewers,Confidence-weighted,Alfalfa/Grass,2,0,0.0,2,0.0,0.0,10000,20260832
+All five reviewers,Confidence-weighted,Corn Grain,1,0,0.0,1,,,0,20260833
+All five reviewers,Confidence-weighted,Corn Silage,30,11,36.666666666666664,26,17.24137931034483,56.666666666666664,10000,20260834
+All five reviewers,Confidence-weighted,Soybeans,19,14,73.6842105263158,9,50.0,96.29960317460312,10000,20260835
+No identified competing interests,Strict,Overall,53,10,18.867924528301888,39,7.8431372549019605,30.909090909090907,10000,20260836
+No identified competing interests,Moderate,Overall,53,17,32.075471698113205,39,15.909090909090908,47.368421052631575,10000,20260837
+No identified competing interests,Liberal,Overall,53,27,50.943396226415096,39,36.584193245778614,64.15094339622641,10000,20260838
+No identified competing interests,Confidence-weighted,Overall,53,22,41.509433962264154,39,26.08695652173913,55.932203389830505,10000,20260839
+All-five valid presence complete cases,Strict,Overall,33,12,36.36363636363637,26,15.785361842105267,56.75675675675676,10000,20260840
+All-five valid presence complete cases,Moderate,Overall,33,17,51.515151515151516,26,33.33333333333333,69.6969696969697,10000,20260841
+All-five valid presence complete cases,Liberal,Overall,33,21,63.63636363636363,26,46.42857142857143,80.0,10000,20260842
+All-five valid presence complete cases,Confidence-weighted,Overall,33,16,48.484848484848484,26,30.0,65.78947368421053,10000,20260843
+All five reviewers,Full correspondence,Overall,53,18,33.9622641509434,39,19.565217391304348,47.69230769230769,10000,20260844
+All five reviewers,Presence-only correspondence,Overall,53,7,13.20754716981132,39,5.0,22.916666666666664,10000,20260845
+All five reviewers,No correspondence,Overall,53,28,52.83018867924528,39,38.46153846153847,68.0,10000,20260846
+All five reviewers,Pair consensus direction agreement,Overall,34,24,70.58823529411765,25,53.125,84.84848484848484,10000,20260847
+No identified competing interests,Full correspondence,Overall,53,14,26.41509433962264,39,11.76470588235294,41.269841269841265,10000,20260848
+No identified competing interests,Presence-only correspondence,Overall,53,3,5.660377358490566,39,0.0,12.727272727272727,10000,20260849
+No identified competing interests,No correspondence,Overall,53,36,67.9245283018868,39,52.0,84.31372549019608,10000,20260850
+No identified competing interests,Pair consensus direction agreement,Overall,27,21,77.77777777777777,21,60.86956521739131,92.0,10000,20260851
+Reviewer-level ratings,Direction agreement,Overall,135,98,72.5925925925926,29,58.03571428571429,84.35374149659864,10000,20260852
+Reviewer-level ratings,Direction agreement,Alfalfa,2,0,0.0,1,,,0,20260853
+Reviewer-level ratings,Direction agreement,Alfalfa/Grass,5,3,60.0,2,50.0,100.0,10000,20260854
+Reviewer-level ratings,Direction agreement,Corn Grain,2,1,50.0,1,,,0,20260855
+Reviewer-level ratings,Direction agreement,Corn Silage,65,45,69.23076923076923,16,50.0,84.61538461538461,10000,20260856
+Reviewer-level ratings,Direction agreement,Soybeans,61,49,80.32786885245902,9,56.00000000000001,95.50561797752809,10000,20260857

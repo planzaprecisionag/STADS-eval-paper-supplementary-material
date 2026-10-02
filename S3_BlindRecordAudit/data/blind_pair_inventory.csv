@@ -1,0 +1,100 @@
+pair_id,field_id,farm_id,crop_source,window_id,scene_date,stads_direction,planned_separation_m,retained,linked_points,inferred_points,record_reuse,retention_reason
+BL-001,BF-024,FARM-01,corn,158,2025-06-23,Negative,20.908,True,2,0,False,Present in authoritative final workbook
+BL-002,BF-024,FARM-01,corn,158,2025-06-23,Positive,23.41,True,2,0,False,Present in authoritative final workbook
+BL-003,BF-023,FARM-01,corn,158,2025-06-23,Positive,25.113,True,2,0,False,Present in authoritative final workbook
+BL-004,BF-002,FARM-01,corn,158,2025-06-23,Positive,22.466,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-005,BF-002,FARM-01,corn,158,2025-06-23,Negative,22.414,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-006,BF-008,FARM-06,corn,213,2025-06-23,Negative,22.684,True,2,0,False,Present in authoritative final workbook
+BL-007,BF-017,FARM-06,corn,213,2025-06-23,Positive,23.252,True,2,0,False,Present in authoritative final workbook
+BL-008,BF-050,FARM-06,corn,213,2025-06-23,Positive,22.364,True,2,0,True,Present in authoritative final workbook
+BL-009,BF-050,FARM-06,corn,213,2025-06-23,Negative,14.143,True,2,2,True,Present in authoritative final workbook
+BL-010,BF-052,FARM-04,corn,213,2025-06-23,Positive,24.227,True,2,0,False,Present in authoritative final workbook
+BL-011,BF-005,FARM-02,corn,242,2025-06-23,Positive,24.543,True,2,0,False,Present in authoritative final workbook
+BL-012,BF-049,FARM-02,corn,242,2025-06-23,Positive,21.71,True,2,0,False,Present in authoritative final workbook
+BL-013,BF-048,FARM-02,corn,242,2025-06-23,Positive,23.113,True,2,0,False,Present in authoritative final workbook
+BL-014,BF-040,FARM-10,corn,242,2025-06-23,Negative,23.573,True,2,0,False,Present in authoritative final workbook
+BL-015,BF-039,FARM-10,corn,242,2025-06-23,Negative,21.851,True,2,0,False,Present in authoritative final workbook
+BL-016,BF-038,FARM-09,corn,262,2025-06-23,Negative,22.223,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-017,BF-035,FARM-09,corn,262,2025-06-23,Negative,22.724,True,2,0,False,Present in authoritative final workbook
+BL-018,BF-036,FARM-09,corn,262,2025-06-23,Negative,22.692,True,2,0,False,Present in authoritative final workbook
+BL-019,BF-030,FARM-09,corn,262,2025-06-23,Positive,19.249,True,2,0,False,Present in authoritative final workbook
+BL-020,BF-047,FARM-12,corn,262,2025-06-23,Negative,25.417,True,2,0,False,Present in authoritative final workbook
+BL-021,BF-004,FARM-01,corn,158,2025-07-04,Negative,20.35,True,2,0,True,Present in authoritative final workbook
+BL-022,BF-009,FARM-01,corn,158,2025-07-04,Positive,20.314,True,2,0,True,Present in authoritative final workbook
+BL-023,BF-003,FARM-01,corn,158,2025-07-04,Negative,20.466,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-024,BF-006,FARM-01,corn,158,2025-07-04,Negative,22.161,True,2,2,True,Present in authoritative final workbook
+BL-025,BF-006,FARM-01,corn,158,,Positive,22.342,True,2,2,True,Present in authoritative final workbook
+BL-026,BF-019,FARM-06,corn,213,2025-07-04,Negative,19.819,True,2,0,True,Present in authoritative final workbook
+BL-027,BF-018,FARM-06,corn,213,2025-07-04,Positive,19.744,True,2,0,True,Present in authoritative final workbook
+BL-028,BF-016,FARM-06,corn,213,2025-07-04,Negative,21.915,True,2,2,True,Present in authoritative final workbook
+BL-029,BF-016,FARM-06,corn,213,2025-07-04,Positive,21.418,True,2,2,True,Present in authoritative final workbook
+BL-030,BF-022,FARM-06,corn,213,2025-07-04,Negative,20.774,True,2,2,False,Present in authoritative final workbook
+BL-031,BF-001,FARM-02,corn,242,2025-07-04,Positive,9.994,True,2,0,False,Present in authoritative final workbook
+BL-032,BF-051,FARM-13,corn,242,2025-07-04,Negative,17.051,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-033,BF-042,FARM-02,corn,242,2025-07-04,Negative,21.824,True,2,0,False,Present in authoritative final workbook
+BL-034,BF-037,FARM-09,corn,262,2025-07-04,Negative,10.325,True,2,0,False,Present in authoritative final workbook
+BL-035,BF-032,FARM-09,corn,262,2025-07-04,Negative,10.442,True,2,0,False,Present in authoritative final workbook
+BL-036,BF-033,FARM-09,corn,262,2025-07-04,Negative,10.433,True,2,0,False,Present in authoritative final workbook
+BL-037,BF-031,FARM-09,corn,262,2025-07-04,Negative,10.57,True,2,0,True,Present in authoritative final workbook
+BL-038,BF-028,FARM-09,corn,262,2025-07-04,Negative,9.934,True,2,0,False,Present in authoritative final workbook
+BL-039,BF-029,FARM-09,corn,262,2025-07-04,Negative,10.485,True,2,0,False,Present in authoritative final workbook
+BL-040,BF-034,FARM-09,corn,262,2025-07-04,Negative,10.067,True,2,0,False,Present in authoritative final workbook
+BL-041,BF-007,FARM-02,corn,242,2025-07-04,Positive,10.562,True,2,0,False,Present in authoritative final workbook
+BL-042,BF-011,FARM-08,soybean,215,2025-07-12,Positive,11.385,True,2,0,False,Present in authoritative final workbook
+BL-043,BF-020,FARM-08,soybean,215,2025-07-12,Positive,22.722,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-044,BF-020,FARM-08,soybean,215,2025-07-12,Negative,15.951,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-045,BF-021,FARM-08,soybean,215,2025-07-12,Positive,19.337,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-046,BF-043,FARM-08,soybean,215,2025-07-12,Positive,24.776,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-047,BF-043,FARM-08,soybean,215,2025-07-12,Negative,21.024,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-048,BF-013,FARM-08,soybean,215,2025-07-12,Positive,22.8,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-049,BF-013,FARM-08,soybean,215,2025-07-12,Negative,25.288,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-050,BF-026,FARM-07,soybean,215,2025-07-12,Positive,21.801,True,2,0,False,Present in authoritative final workbook
+BL-051,BF-026,FARM-07,soybean,215,2025-07-12,Positive,20.418,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-052,BF-056,FARM-07,soybean,216,2025-07-12,Positive,20.768,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-053,BF-055,FARM-07,soybean,216,2025-07-12,Negative,19.931,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-054,BF-054,FARM-07,soybean,216,2025-07-12,Positive,20.986,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-055,BF-056,FARM-07,soybean,216,2025-07-12,Positive,15.271,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-056,BF-013,FARM-08,soybean,240,2025-07-12,Negative,21.531,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-057,BF-013,FARM-08,soybean,240,2025-07-12,Positive,16.161,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-058,BF-013,FARM-08,soybean,240,2025-07-12,Negative,19.878,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-059,BF-013,FARM-08,soybean,240,2025-07-12,Positive,15.413,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-060,BF-026,FARM-07,soybean,215,2025-07-12,Negative,23.498,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-061,BF-012,FARM-08,soybean,240,2025-07-12,Positive,22.087,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-062,BF-025,FARM-07,soybean,215,2025-07-12,Negative,10.67,True,2,0,True,Present in authoritative final workbook
+BL-063,BF-025,FARM-07,soybean,215,2025-07-12,Positive,21.413,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-064,BF-026,FARM-07,soybean,215,2025-07-12,Positive,17.834,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-065,BF-025,FARM-07,soybean,215,2025-07-12,Positive,13.812,True,2,1,True,Present in authoritative final workbook
+BL-066,BF-026,FARM-07,soybean,215,2025-07-12,Negative,10.224,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-067,BF-053,FARM-11,soybean,215,2025-07-12,Negative,12.575,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-068,BF-041,FARM-03,soybean,240,2025-07-12,Negative,10.486,True,2,0,False,Present in authoritative final workbook
+BL-069,BF-041,FARM-03,soybean,240,2025-07-12,Negative,10.256,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-070,BF-015,FARM-08,soybean,215,2025-08-10,Negative,15.305,True,2,0,True,Present in authoritative final workbook
+BL-071,BF-015,FARM-08,soybean,215,2025-08-10,Negative,12.204,True,2,0,True,Present in authoritative final workbook
+BL-072,BF-015,FARM-08,soybean,215,2025-08-10,Positive,13.183,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-073,BF-014,FARM-08,soybean,215,2025-08-10,Negative,13.619,True,2,0,False,Present in authoritative final workbook
+BL-074,BF-054,FARM-07,soybean,215,2025-08-10,Positive,12.44,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-075,BF-054,FARM-07,soybean,215,2025-08-10,Positive,12.07,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-076,BF-056,FARM-07,soybean,215,2025-08-10,Positive,16.576,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-077,BF-056,FARM-07,soybean,215,2025-08-10,Positive,21.334,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-078,BF-041,FARM-03,soybean,215,2025-08-10,Negative,14.543,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-079,BF-027,FARM-07,soybean,215,2025-08-10,Negative,14.455,True,2,0,False,Present in authoritative final workbook
+BL-080,BF-027,FARM-07,soybean,215,2025-08-10,Negative,13.859,True,2,0,False,Present in authoritative final workbook
+BL-081,BF-027,FARM-07,soybean,215,2025-08-10,Negative,18.124,True,2,0,False,Present in authoritative final workbook
+BL-082,BF-010,FARM-08,soybean,215,2025-08-10,Negative,19.708,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-083,BF-010,FARM-08,soybean,215,2025-08-10,Positive,17.571,True,2,0,True,Present in authoritative final workbook
+BL-084,BF-010,FARM-08,soybean,215,2025-08-10,Positive,12.529,True,2,0,True,Present in authoritative final workbook
+BL-085,BF-010,FARM-08,soybean,215,2025-08-10,Positive,17.458,True,2,0,False,Present in authoritative final workbook
+BL-086,BF-056,FARM-07,soybean,216,2025-08-10,Positive,15.615,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-087,BF-044,FARM-05,soybean,217,2025-08-10,Negative,24.362,True,2,0,True,Present in authoritative final workbook
+BL-088,BF-044,FARM-05,soybean,217,2025-08-10,Negative,27.927,True,2,1,True,Present in authoritative final workbook
+BL-089,BF-044,FARM-05,soybean,217,2025-08-10,Negative,15.72,True,2,0,True,Present in authoritative final workbook
+BL-090,BF-044,FARM-05,soybean,217,2025-08-10,Negative,13.218,True,2,0,True,Present in authoritative final workbook
+BL-091,BF-044,FARM-05,soybean,217,2025-08-10,Negative,11.796,True,2,0,False,Present in authoritative final workbook
+BL-092,BF-046,FARM-12,soybean,263,2025-08-10,Negative,15.202,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-093,BF-046,FARM-12,soybean,263,2025-08-10,Negative,16.99,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-094,BF-046,FARM-12,soybean,263,2025-08-10,Positive,12.789,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-095,BF-046,FARM-12,soybean,263,2025-08-10,Negative,18.57,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-096,BF-046,FARM-12,soybean,263,2025-08-10,Negative,12.018,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-097,BF-045,FARM-12,soybean,263,2025-08-10,Negative,16.911,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-098,BF-045,FARM-12,soybean,263,2025-08-10,Negative,13.655,False,0,0,False,Not present in authoritative final workbook; no complete linked pair
+BL-099,BF-045,FARM-12,soybean,263,2025-08-10,Positive,12.866,False,0,0,False,Not present in authoritative final workbook; no complete linked pair

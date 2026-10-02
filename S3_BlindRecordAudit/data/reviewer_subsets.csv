@@ -1,0 +1,6 @@
+reviewer_id,identified_competing_interest,historical_masking_subset
+R1,False,True
+R2,True,True
+R3,False,True
+R4,True,False
+R5,False,True

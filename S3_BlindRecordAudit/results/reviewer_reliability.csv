@@ -1,0 +1,4 @@
+endpoint,items_any_rating,items_two_or_more,fleiss_modal_rating_count,fleiss_items,alpha_nominal,alpha_interval,fleiss_kappa,gwet_ac1
+"Presence, all categories",55,55,5,55,0.37353018029788343,,0.3712437940945913,0.458665766786383
+"Presence, evaluable categories",55,53,5,33,0.48957841052299944,0.6689007367754561,0.43198912288822033,0.542990816426287
+"Direction, evaluable categories",38,34,4,13,0.4767295597484277,,0.3106060606060605,0.7657948466410199

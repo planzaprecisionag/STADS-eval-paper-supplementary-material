@@ -1,0 +1,87 @@
+public_pair_id,original_or_replacement,planned,scouted,completed,retained_for_analysis,anomaly_confirmation_evaluable,direction_evaluable,composite_evaluable,record_flow_classification,exclusion_stage,exclusion_reason,crop
+RTK-001,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Missed during scouting,Corn silage
+RTK-002,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-003,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-004,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-005,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Missed during scouting,Corn silage
+RTK-006,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-007,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-008,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Corn silage
+RTK-009,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-010,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-011,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-012,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-013,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-014,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Corn silage
+RTK-015,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-016,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-017,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Inaccessible: flooded access,Corn silage
+RTK-018,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-019,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-020,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-021,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Corn silage
+RTK-022,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Missed during scouting,Corn silage
+RTK-023,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-024,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-025,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-026,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-027,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-028,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-029,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Missed during scouting,Soybean
+RTK-030,original,true,true,true,true,false,false,false,retained_original,not_excluded,,Soybean
+RTK-031,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-032,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Soybean
+RTK-033,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-034,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Soybean
+RTK-035,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-036,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Soybean
+RTK-037,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-038,original,true,true,true,true,false,false,false,retained_original,not_excluded,,Soybean
+RTK-039,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Soybean
+RTK-040,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-041,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-042,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-043,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-044,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-045,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Soybean
+RTK-046,original,true,true,true,true,false,false,false,retained_original,not_excluded,,Soybean
+RTK-047,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-048,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-049,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Soybean
+RTK-050,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Missed during scouting,Soybean
+RTK-051,replacement,false,true,true,true,true,true,true,retained_replacement,not_excluded,,Soybean
+RTK-052,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-053,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-054,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-055,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-056,original,true,true,true,false,false,false,false,completed_excluded,post_scouting,Post-scouting non-target crop,Corn silage
+RTK-057,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-058,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-059,original,true,true,true,true,false,false,false,retained_original,not_excluded,,Corn silage
+RTK-060,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-061,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Corn silage
+RTK-062,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-063,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-064,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-065,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-066,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-067,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-068,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-069,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-070,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-071,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-072,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Incorrect crop or clover,Corn silage
+RTK-073,original,true,true,true,true,true,false,true,retained_original,not_excluded,,Corn silage
+RTK-074,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-075,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-076,original,true,true,true,true,true,true,true,retained_original,not_excluded,,Corn silage
+RTK-077,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-078,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-079,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-080,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-081,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-082,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-083,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-084,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-085,original,true,false,false,false,false,false,false,unscouted_original,pre_scouting,Restricted access: active mine,Soybean
+RTK-086,original,true,true,true,false,false,false,false,completed_excluded,post_scouting,Post-scouting non-target area,Soybean

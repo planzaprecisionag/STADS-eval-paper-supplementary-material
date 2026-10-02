@@ -1,0 +1,13 @@
+reviewer_set,analysis,endpoint,n,presentation_1_1_presentation_2_0,presentation_1_0_presentation_2_1,p_value,statistic,mean_presentation_1_minus_2
+all_reviewers,Pair-level exact McNemar,strict,15,0.0,2.0,0.5,,
+all_reviewers,Pair-level exact McNemar,moderate,15,0.0,0.0,1.0,,
+all_reviewers,Pair-level exact McNemar,liberal,15,1.0,0.0,1.0,,
+all_reviewers,Pair-level exact McNemar,confidence_weighted,15,1.0,1.0,1.0,,
+all_reviewers,Pair-level paired Wilcoxon,mean_support,15,,,0.1588529378909529,8.0,-0.0366666666666666
+all_reviewers,Pair-level paired Wilcoxon,confidence_weighted_support,15,,,0.1097446387470132,9.0,-0.0348227698227698
+masked_reviewers_only,Pair-level exact McNemar,strict,15,0.0,1.0,1.0,,
+masked_reviewers_only,Pair-level exact McNemar,moderate,15,0.0,0.0,1.0,,
+masked_reviewers_only,Pair-level exact McNemar,liberal,15,0.0,0.0,1.0,,
+masked_reviewers_only,Pair-level exact McNemar,confidence_weighted,15,0.0,1.0,1.0,,
+masked_reviewers_only,Pair-level paired Wilcoxon,mean_support,15,,,0.1557396389588285,8.0,-0.0416666666666666
+masked_reviewers_only,Pair-level paired Wilcoxon,confidence_weighted_support,15,,,0.1097446387470132,9.0,-0.0403727753727753

@@ -1,0 +1,6 @@
+reviewer,masked_reviewer,n_reversed_pairs,anomaly_agreement_n,anomaly_agreement_denominator,anomaly_agreement_percent,anomaly_agreement_ci_lower_percent,anomaly_agreement_ci_upper_percent,anomaly_repeatability_kappa,direction_corrected_agreement_n,direction_corrected_agreement_denominator,direction_corrected_agreement_percent,direction_corrected_kappa,expected_binary_direction_flip_n,expected_binary_direction_flip_denominator,expected_binary_direction_flip_percent
+R1,True,15,15,15,100.0,79.61166989641515,100.0,1.0,15,15,100.0,1.0,9,9,100.0
+R2,True,15,14,15,93.33333333333331,70.18347012621999,98.81331045067316,0.8837209302325582,14,15,93.33333333333331,0.8421052631578948,10,10,100.0
+R3,True,15,15,15,100.0,79.61166989641515,100.0,1.0,5,15,33.333333333333336,0.1758241758241757,0,10,0.0
+R4,False,15,15,15,100.0,79.61166989641515,100.0,1.0,14,15,93.33333333333331,0.8717948717948718,10,11,90.9090909090909
+R5,True,15,5,15,33.333333333333336,15.176324439714731,58.28645226148023,0.0909090909090908,11,15,73.33333333333333,0.2682926829268292,0,2,0.0

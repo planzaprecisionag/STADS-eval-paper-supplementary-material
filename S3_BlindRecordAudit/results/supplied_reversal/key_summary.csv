@@ -1,0 +1,6 @@
+metric,value,interpretation
+Unique reversed my_pair_id values,15,"Repeated presentations of existing scouting pairs, not new observations."
+Reviewer-by-pair reversed comparisons,75,Should be about unique pairs × reviewers if all reviewers rated both rows.
+Masked-reviewer anomaly exact agreement,49/60 (81.7%),Descriptive repeatability of anomaly classification after column reversal.
+Masked-reviewer direction agreement after reorientation,45/60 (75.0%),Tests whether direction judgments followed the observation content after swap.
+Masked-reviewer rationale flags,0,Manual-review flags only; absence is consistent with masking but is not proof.

@@ -1,0 +1,178 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198158,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V7",
+        "comments": "Corn is 3' tall, drought stressed but has Good color with slight sidedress burns. Excellent weed control. No leaf diseases found. Heights across the field vary with soils and moisture. This point is on a side hill.",
+        "scoutingrecordthreshold": false,
+        "fn": 25,
+        "fieldname": "field25",
+        "acres": "49.60",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 24000.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198159,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V9",
+        "comments": "Corn is 4' tall with good color, slight sidedress burns. Excellent weed control. No leaf diseases found. This point is in the valley, and significant difference between points in height, color, population.",
+        "scoutingrecordthreshold": false,
+        "fn": 25,
+        "fieldname": "field25",
+        "acres": "49.60",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32000.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198156,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Corn is 7' tall, getting ready to tassel. Good color, slight sidedress burns. Excellent weed control. No leaf diseases found. No doubles. No significant difference between points.",
+        "scoutingrecordthreshold": false,
+        "fn": 26,
+        "fieldname": "field26",
+        "acres": "12.90",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32000.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198157,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Corn is 7' tall, getting ready to tassel. Good color, slight sidedress burns. Excellent weed control. No leaf diseases found. No doubles.",
+        "scoutingrecordthreshold": false,
+        "fn": 26,
+        "fieldname": "field26",
+        "acres": "12.90",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 32000.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198154,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Corn is 8' tall, getting ready to tassel. Good color. Excellent weed control. No leaf diseases found. Ground is very dry. Couple doubles found with plants. No significant visible difference between points.",
+        "scoutingrecordthreshold": false,
+        "fn": 27,
+        "fieldname": "field27",
+        "acres": "31.20",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 34000.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-15 14:11:28.860623",
+        "reportid": "f660e1ec-291c-4822-8a7d-4d3975f55fb8",
+        "scoutingrecordsid": 198155,
+        "cropdescription": "Corn Silage",
+        "plantstage": "V10",
+        "comments": "Corn is 7' tall, getting ready to tassel. Good color. Excellent weed control. No leaf diseases found. Ground is dry. One set of doubles.",
+        "scoutingrecordthreshold": false,
+        "fn": 27,
+        "fieldname": "field27",
+        "acres": "31.20",
+        "farmnumber": 1,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 33000.0,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+reviewer_set,pair_id,mean_support_1,mean_support_2,strict_1,strict_2,moderate_1,moderate_2,liberal_1,liberal_2,confidence_weighted_support_1,confidence_weighted_support_2,confidence_weighted_1,confidence_weighted_2,anomaly_mode_1,anomaly_mode_2,direction_mode_reoriented_1,direction_mode_reoriented_2,strict_agreement,moderate_agreement,liberal_agreement,confidence_weighted_agreement,direction_consensus_agreement_after_reorientation
+all_reviewers,BL-071,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+all_reviewers,BL-073,1.0,1.0,True,True,True,True,True,True,1.0,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-079,0.3,0.3,False,False,False,False,True,True,0.2727272727272727,0.3,False,False,Possibly Confirmed,Possibly Confirmed,Negative,Positive,True,True,True,True,False
+all_reviewers,BL-080,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+all_reviewers,BL-081,0.7,0.875,False,True,True,True,True,True,0.7727272727272727,0.9444444444444444,True,True,Confirmed,Confirmed,Negative,Negative,False,True,True,True,True
+all_reviewers,BL-083,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+all_reviewers,BL-084,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+all_reviewers,BL-085,0.7,0.875,False,True,True,True,True,True,0.7500000000000001,0.9000000000000001,True,True,Confirmed,Confirmed,Negative,Negative,False,True,True,True,True
+all_reviewers,BL-087,0.9,1.0,True,True,True,True,True,True,0.9230769230769232,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-088,1.0,1.0,True,True,True,True,True,True,1.0,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-089,0.9,1.0,True,True,True,True,True,True,0.9285714285714284,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-090,0.5,0.25,False,False,False,False,True,False,0.5,0.25,True,False,Tie,Not Confirmed,Negative,Positive,True,True,False,False,False
+all_reviewers,BL-091,0.9,1.0,True,True,True,True,True,True,0.9,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-036,0.875,0.9,True,True,True,True,True,True,0.9500000000000002,0.9545454545454548,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+all_reviewers,BL-039,0.5,0.625,False,False,True,True,True,True,0.4545454545454545,0.625,False,True,Possibly Confirmed,Possibly Confirmed,Negative,Negative,True,True,True,False,True
+masked_reviewers_only,BL-071,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+masked_reviewers_only,BL-073,1.0,1.0,True,True,True,True,True,True,1.0,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-079,0.25,0.25,False,False,False,False,True,True,0.2222222222222222,0.25,False,False,Tie,Tie,Negative,Tie,True,True,True,True,False
+masked_reviewers_only,BL-080,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+masked_reviewers_only,BL-081,0.625,0.8333333333333334,False,False,True,True,True,True,0.6875,0.9166666666666669,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-083,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+masked_reviewers_only,BL-084,0.0,0.0,False,False,False,False,False,False,0.0,0.0,False,False,Not Confirmed,Not Confirmed,,,True,True,True,True,False
+masked_reviewers_only,BL-085,0.625,0.8333333333333334,False,False,True,True,True,True,0.6666666666666667,0.8571428571428572,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-087,0.875,1.0,True,True,True,True,True,True,0.9000000000000001,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-088,1.0,1.0,True,True,True,True,True,True,1.0,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-089,0.875,1.0,True,True,True,True,True,True,0.9090909090909092,1.0,True,True,Confirmed,Confirmed,Negative,Tie,True,True,True,True,False
+masked_reviewers_only,BL-090,0.3333333333333333,0.0,False,False,False,False,False,False,0.3333333333333333,0.0,False,False,Not Confirmed,Not Confirmed,Negative,,True,True,True,True,False
+masked_reviewers_only,BL-091,0.875,1.0,True,True,True,True,True,True,0.875,1.0,True,True,Confirmed,Confirmed,Negative,Negative,True,True,True,True,True
+masked_reviewers_only,BL-036,0.8333333333333334,0.875,False,True,True,True,True,True,0.9285714285714288,0.9375000000000002,True,True,Confirmed,Confirmed,Negative,Tie,False,True,True,True,False
+masked_reviewers_only,BL-039,0.375,0.5,False,False,True,True,True,True,0.3333333333333333,0.5,False,True,Possibly Confirmed,Possibly Confirmed,Negative,Negative,True,True,True,False,True

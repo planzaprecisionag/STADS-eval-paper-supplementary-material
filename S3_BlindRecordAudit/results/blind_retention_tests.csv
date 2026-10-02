@@ -1,0 +1,4 @@
+attribute,test,statistic,p_value
+crop_source,Two-sided Fisher exact,0.06766381766381767,3.95296256939177e-08
+stads_direction,Two-sided Fisher exact,0.6176470588235294,0.3081324026642813
+planned_separation_m,Two-sided Mann-Whitney U,1225.0,0.9186725984592901

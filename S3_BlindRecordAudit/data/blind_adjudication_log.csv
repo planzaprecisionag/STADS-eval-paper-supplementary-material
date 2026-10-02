@@ -1,0 +1,5 @@
+pair_id,action,detail
+BL-025,Corrected target role label,"The source label Int is treated as In, as confirmed by the author. The final workbook supplies the other point comments for this presentation."
+BL-024;BL-025,Preserved intentional record reuse,The same two observation records appear in opposite target-reference orientations. Reuse was confirmed as intentional by the author.
+BL-028;BL-029,Preserved intentional record reuse,The same observation pair appears in the same orientation. Reuse was confirmed as intentional by the author.
+BL-041,Resolved repeated point letter by coordinates,"Both source points carry letter a. Final presentation identity was determined by coordinates and pair identity, not by the letter alone."

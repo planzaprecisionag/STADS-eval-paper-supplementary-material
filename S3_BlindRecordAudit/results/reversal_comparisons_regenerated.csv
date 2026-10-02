@@ -1,0 +1,76 @@
+pair_id,reviewer_id,presentation_target,crop_target,presence_target,presence_confidence_target,direction_target,direction_confidence_target,presentation_reference,crop_reference,presence_reference,presence_confidence_reference,direction_reference,direction_confidence_reference,reference_direction_reoriented,presence_exact_agreement,direction_reoriented_agreement
+BL-036,R1,target,Corn Silage,Possibly Confirmed,Low,Negative,Low,reference,Corn Silage,Possibly Confirmed,Low,Positive,Low,Negative,True,True
+BL-039,R1,target,Corn Silage,Possibly Confirmed,Low,Negative,Medium,reference,Corn Silage,Possibly Confirmed,Low,Positive,Medium,Negative,True,True
+BL-071,R1,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-073,R1,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-079,R1,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-080,R1,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-081,R1,target,Soybeans,Confirmed,Medium,Negative,High,reference,Soybeans,Confirmed,Medium,Positive,High,Negative,True,True
+BL-083,R1,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-084,R1,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-085,R1,target,Soybeans,Confirmed,Medium,Negative,Medium,reference,Soybeans,Confirmed,Medium,Positive,Medium,Negative,True,True
+BL-087,R1,target,Soybeans,Confirmed,Medium,Negative,Medium,reference,Soybeans,Confirmed,Medium,Positive,Medium,Negative,True,True
+BL-088,R1,target,Soybeans,Confirmed,Medium,Negative,Medium,reference,Soybeans,Confirmed,Medium,Positive,Medium,Negative,True,True
+BL-089,R1,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-090,R1,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-091,R1,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-036,R2,target,Corn Silage,Confirmed,High,Negative,High,reference,Corn Silage,Confirmed,High,Positive,High,Negative,True,True
+BL-039,R2,target,Corn Silage,Possibly Confirmed,High,Negative,Medium,reference,Corn Silage,Possibly Confirmed,High,Positive,Medium,Negative,True,True
+BL-071,R2,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-073,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-079,R2,target,Soybeans,Possibly Confirmed,Medium,Negative,Medium,reference,Soybeans,Possibly Confirmed,Medium,Positive,Medium,Negative,True,True
+BL-080,R2,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-081,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-083,R2,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-084,R2,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-085,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-087,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-088,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-089,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-090,R2,target,Soybeans,Confirmed,High,Negative,Low,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,False,False
+BL-091,R2,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-036,R3,target,Corn Silage,Confirmed,High,Negative,High,reference,Corn Silage,Confirmed,High,Negative,High,Positive,True,False
+BL-039,R3,target,Corn Silage,Possibly Confirmed,Medium,Negative,Medium,reference,Corn Silage,Possibly Confirmed,Medium,Negative,Medium,Positive,True,False
+BL-071,R3,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-073,R3,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-079,R3,target,Soybeans,Possibly Confirmed,Medium,Negative,Medium,reference,Soybeans,Possibly Confirmed,Medium,Negative,Medium,Positive,True,False
+BL-080,R3,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-081,R3,target,Soybeans,Possibly Confirmed,Low,Positive,Medium,reference,Soybeans,Possibly Confirmed,Low,Positive,Medium,Negative,True,False
+BL-083,R3,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-084,R3,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-085,R3,target,Soybeans,Possibly Confirmed,Medium,Negative,Medium,reference,Soybeans,Possibly Confirmed,Medium,Negative,Medium,Positive,True,False
+BL-087,R3,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-088,R3,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-089,R3,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-090,R3,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-091,R3,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-036,R4,target,Corn Silage,Confirmed,High,Negative,High,reference,Corn Silage,Confirmed,High,Positive,Medium,Negative,True,True
+BL-039,R4,target,Corn Silage,Confirmed,Medium,Negative,High,reference,Corn Silage,Confirmed,Medium,Positive,Medium,Negative,True,True
+BL-071,R4,target,Soybeans,Not Confirmed,Medium,Indeterminate,Medium,reference,Soybeans,Not Confirmed,Medium,Indeterminate,Medium,Indeterminate,True,True
+BL-073,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-079,R4,target,Soybeans,Possibly Confirmed,Medium,Positive,Low,reference,Soybeans,Possibly Confirmed,Medium,Negative,Low,Positive,True,True
+BL-080,R4,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-081,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-083,R4,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-084,R4,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-085,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-087,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-088,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-089,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-090,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,True,False
+BL-091,R4,target,Soybeans,Confirmed,High,Negative,High,reference,Soybeans,Confirmed,High,Positive,High,Negative,True,True
+BL-036,R5,target,Corn Silage,Excluded,Low,Negative,High,reference,Corn Silage,Confirmed,Low,Negative,High,Positive,False,False
+BL-039,R5,target,Corn Silage,Not Confirmed,High,Indeterminate,High,reference,Corn Silage,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-071,R5,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-073,R5,target,Soybeans,Excluded,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,True,True
+BL-079,R5,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,Medium,Indeterminate,High,Indeterminate,True,True
+BL-080,R5,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Not Confirmed,High,Indeterminate,High,Indeterminate,True,True
+BL-081,R5,target,Soybeans,Not Confirmed,Medium,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-083,R5,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-084,R5,target,Soybeans,Not Confirmed,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-085,R5,target,Soybeans,Not Confirmed,Medium,Indeterminate,Medium,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,True
+BL-087,R5,target,Soybeans,Possibly Confirmed,Medium,Negative,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,False
+BL-088,R5,target,Soybeans,Excluded,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,True,True
+BL-089,R5,target,Soybeans,Possibly Confirmed,Medium,Negative,High,reference,Soybeans,Confirmed,High,Negative,High,Positive,False,False
+BL-090,R5,target,Soybeans,Excluded,High,Indeterminate,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,True,True
+BL-091,R5,target,Soybeans,Possibly Confirmed,High,Negative,High,reference,Soybeans,Excluded,High,Indeterminate,High,Indeterminate,False,False

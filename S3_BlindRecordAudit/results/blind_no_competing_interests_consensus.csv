@@ -1,0 +1,56 @@
+subset,pair_id,field_id,crop,stads_direction,n_presence_valid,n_direction_valid,presence_evaluable,confidence_weighted_support,consensus_direction,direction_evaluable,direction_match,presence_mode,Strict,Moderate,Liberal,Confidence-weighted,composite
+No identified competing interests,BL-001,BF-024,Corn Silage,Negative,3,1,True,0.125,Positive,True,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-002,BF-024,Corn Silage,Positive,2,0,True,0.2,,False,False,Tie,False,False,True,False,No correspondence
+No identified competing interests,BL-003,BF-023,Alfalfa/Grass,Positive,3,2,True,0.25,Negative,True,False,Possibly Confirmed,False,False,True,False,No correspondence
+No identified competing interests,BL-006,BF-008,Corn Silage,Negative,2,1,True,0.6000000000000001,Negative,True,True,Tie,False,False,True,True,No correspondence
+No identified competing interests,BL-007,BF-017,Corn Silage,Positive,3,3,True,0.9166666666666667,Negative,True,False,Confirmed,False,True,True,True,Presence-only correspondence
+No identified competing interests,BL-008,BF-050,Corn Silage,Positive,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-009,BF-050,Corn Silage,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-010,BF-052,Corn Silage,Positive,3,2,True,0.25,Tie,False,False,Possibly Confirmed,False,False,True,False,No correspondence
+No identified competing interests,BL-011,BF-005,Alfalfa/Grass,Positive,1,1,False,0.5,Positive,True,True,Possibly Confirmed,False,False,False,False,
+No identified competing interests,BL-012,BF-049,Alfalfa/Grass,Positive,1,0,False,0.0,,False,False,Not Confirmed,False,False,False,False,
+No identified competing interests,BL-013,BF-048,Alfalfa/Grass,Positive,2,0,True,0.125,,False,False,Tie,False,False,True,False,No correspondence
+No identified competing interests,BL-014,BF-040,Corn Silage,Negative,3,0,True,0.28571428571428575,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-015,BF-039,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-017,BF-035,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-018,BF-036,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-019,BF-030,Alfalfa,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-020,BF-047,Corn Grain,Negative,3,0,True,0.08333333333333333,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-021,BF-004,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-022,BF-009,Corn Silage,Positive,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-024,BF-006,Corn Silage,Negative,3,3,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-025,BF-006,Corn Silage,Positive,3,3,True,1.0,Positive,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-026,BF-019,Corn Silage,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-027,BF-018,Corn Silage,Positive,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-028,BF-016,Corn Silage,Negative,3,3,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-029,BF-016,Corn Silage,Positive,3,3,True,1.0,Negative,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+No identified competing interests,BL-030,BF-022,Corn Silage,Negative,2,2,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-031,BF-001,Corn Silage,Positive,3,1,True,0.07142857142857144,Positive,True,True,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-033,BF-042,Corn Silage,Negative,3,2,True,0.625,Negative,True,True,Confirmed,False,False,True,True,No correspondence
+No identified competing interests,BL-034,BF-037,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-035,BF-032,Corn Silage,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-036,BF-033,Corn Silage,Negative,2,3,True,0.8750000000000001,Negative,True,True,Tie,False,True,True,True,Full correspondence
+No identified competing interests,BL-037,BF-031,Corn Silage,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-038,BF-028,Corn Silage,Negative,3,3,True,0.8571428571428572,Negative,True,True,Confirmed,False,True,True,True,Full correspondence
+No identified competing interests,BL-039,BF-029,Corn Silage,Negative,3,2,True,0.25,Negative,True,True,Possibly Confirmed,False,False,True,False,No correspondence
+No identified competing interests,BL-040,BF-034,Corn Silage,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-041,BF-007,Corn Silage,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-042,BF-011,Soybeans,Positive,3,1,True,0.4285714285714286,Positive,True,True,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-050,BF-026,Soybeans,Positive,3,2,True,0.6666666666666666,Tie,False,False,Confirmed,False,False,True,True,No correspondence
+No identified competing interests,BL-062,BF-025,Soybeans,Negative,3,3,True,0.8571428571428572,Negative,True,True,Confirmed,False,True,True,True,Full correspondence
+No identified competing interests,BL-065,BF-025,Soybeans,Positive,2,2,True,1.0,Negative,True,False,Confirmed,True,True,True,True,Presence-only correspondence
+No identified competing interests,BL-068,BF-041,Soybeans,Negative,3,3,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-070,BF-015,Soybeans,Negative,2,2,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-071,BF-015,Soybeans,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-073,BF-014,Soybeans,Negative,2,2,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-079,BF-027,Soybeans,Negative,3,1,True,0.14285714285714288,Negative,True,True,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-080,BF-027,Soybeans,Negative,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-081,BF-027,Soybeans,Negative,3,2,True,0.5,Tie,False,False,Tie,False,False,True,True,No correspondence
+No identified competing interests,BL-083,BF-010,Soybeans,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-084,BF-010,Soybeans,Positive,3,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-085,BF-010,Soybeans,Positive,3,2,True,0.5,Negative,True,False,Tie,False,False,True,True,No correspondence
+No identified competing interests,BL-087,BF-044,Soybeans,Negative,3,3,True,0.8571428571428572,Negative,True,True,Confirmed,False,True,True,True,Full correspondence
+No identified competing interests,BL-088,BF-044,Soybeans,Negative,2,2,True,1.0,Negative,True,True,Confirmed,True,True,True,True,Full correspondence
+No identified competing interests,BL-089,BF-044,Soybeans,Negative,3,3,True,0.8750000000000001,Negative,True,True,Confirmed,False,True,True,True,Full correspondence
+No identified competing interests,BL-090,BF-044,Soybeans,Negative,2,0,True,0.0,,False,False,Not Confirmed,False,False,False,False,No correspondence
+No identified competing interests,BL-091,BF-044,Soybeans,Negative,3,3,True,0.8333333333333334,Negative,True,True,Confirmed,False,True,True,True,Full correspondence

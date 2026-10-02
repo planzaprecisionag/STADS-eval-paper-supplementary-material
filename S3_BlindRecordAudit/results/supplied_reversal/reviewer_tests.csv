@@ -1,0 +1,26 @@
+scope,analysis,endpoint,n,inside_primary_1_outside_primary_0,inside_primary_0_outside_primary_1,p_value,statistic,mean_inside_minus_outside_primary,successes
+R1,Exact McNemar,Confirmed or Possibly Confirmed,15,0.0,0.0,1.0,,,
+R1,Exact McNemar,Confirmed only,15,0.0,0.0,1.0,,,
+R1,Paired Wilcoxon,"Support score (1, 0.5, 0)",15,,,1.0,0.0,0.0,
+R1,Paired Wilcoxon,"Anomaly confidence (High=3, Medium=2, Low=1)",15,,,1.0,0.0,0.0,
+R1,Exact binomial,Direction flips as expected after column reversal,9,,,0.001953125,,,9.0
+R2,Exact McNemar,Confirmed or Possibly Confirmed,15,1.0,0.0,1.0,,,
+R2,Exact McNemar,Confirmed only,15,1.0,0.0,1.0,,,
+R2,Paired Wilcoxon,"Support score (1, 0.5, 0)",15,,,0.3173105078629141,0.0,0.0666666666666666,
+R2,Paired Wilcoxon,"Anomaly confidence (High=3, Medium=2, Low=1)",15,,,1.0,0.0,0.0,
+R2,Exact binomial,Direction flips as expected after column reversal,10,,,0.0009765625,,,10.0
+R3,Exact McNemar,Confirmed or Possibly Confirmed,15,0.0,0.0,1.0,,,
+R3,Exact McNemar,Confirmed only,15,0.0,0.0,1.0,,,
+R3,Paired Wilcoxon,"Support score (1, 0.5, 0)",15,,,1.0,0.0,0.0,
+R3,Paired Wilcoxon,"Anomaly confidence (High=3, Medium=2, Low=1)",15,,,1.0,0.0,0.0,
+R3,Exact binomial,Direction flips as expected after column reversal,10,,,1.0,,,0.0
+R4,Exact McNemar,Confirmed or Possibly Confirmed,15,0.0,0.0,1.0,,,
+R4,Exact McNemar,Confirmed only,15,0.0,0.0,1.0,,,
+R4,Paired Wilcoxon,"Support score (1, 0.5, 0)",15,,,1.0,0.0,0.0,
+R4,Paired Wilcoxon,"Anomaly confidence (High=3, Medium=2, Low=1)",15,,,0.3173105078629141,0.0,-0.0666666666666666,
+R4,Exact binomial,Direction flips as expected after column reversal,11,,,0.005859375,,,10.0
+R5,Exact McNemar,Confirmed or Possibly Confirmed,3,0.0,0.0,1.0,,,
+R5,Exact McNemar,Confirmed only,3,0.0,1.0,1.0,,,
+R5,Paired Wilcoxon,"Support score (1, 0.5, 0)",3,,,1.0,0.0,-0.1666666666666666,
+R5,Paired Wilcoxon,"Anomaly confidence (High=3, Medium=2, Low=1)",15,,,0.1797124948789997,3.0,-0.2,
+R5,Exact binomial,Direction flips as expected after column reversal,2,,,1.0,,,0.0

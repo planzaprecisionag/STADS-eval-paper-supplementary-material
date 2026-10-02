@@ -1,0 +1,602 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208284,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Overall soys look good. This spot is midway out back. Soys are off color, wilty, shorter (12-15\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208285,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Soys look good overall, better in this spot than other spot (more mid field further out back). Soys are 27\" tall, still off color, leaves flipped over. Drought stress hitting but not as hard as other spot. Visible differences.",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208286,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield top of knoll. Overall soys look good. This spot Soys are off color, wilty, shorter (18\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208287,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield North side of knoll. Overall soys look amazing This spot Soys are dark color, tall (48\" tall), healthy. No drought stress hitting these soys. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208288,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot where good Soys meet droughty Soys. Soys are off color, wilty, shorter (30\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208289,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot soys look good, dark color, taller (43\" tall).  drought stress not hitting these soys hard. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208284,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Overall soys look good. This spot is midway out back. Soys are off color, wilty, shorter (12-15\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208285,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Soys look good overall, better in this spot than other spot (more mid field further out back). Soys are 27\" tall, still off color, leaves flipped over. Drought stress hitting but not as hard as other spot. Visible differences.",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208286,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield top of knoll. Overall soys look good. This spot Soys are off color, wilty, shorter (18\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208287,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield North side of knoll. Overall soys look amazing This spot Soys are dark color, tall (48\" tall), healthy. No drought stress hitting these soys. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208288,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot where good Soys meet droughty Soys. Soys are off color, wilty, shorter (30\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208289,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot soys look good, dark color, taller (43\" tall).  drought stress not hitting these soys hard. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208284,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Overall soys look good. This spot is midway out back. Soys are off color, wilty, shorter (12-15\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208285,
+        "cropdescription": "Soybeans",
+        "plantstage": "R5",
+        "comments": "Across the creek. Soys look good overall, better in this spot than other spot (more mid field further out back). Soys are 27\" tall, still off color, leaves flipped over. Drought stress hitting but not as hard as other spot. Visible differences.",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208286,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield top of knoll. Overall soys look good. This spot Soys are off color, wilty, shorter (18\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208287,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield North side of knoll. Overall soys look amazing This spot Soys are dark color, tall (48\" tall), healthy. No drought stress hitting these soys. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208288,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot where good Soys meet droughty Soys. Soys are off color, wilty, shorter (30\" tall). Leaves are flipped over, drought stress hitting these soys hard. Rows not canopied",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-08-18 13:40:13.389615",
+        "reportid": "0b8bfa7a-40f7-4f0d-8838-cb4d0a1e6a0e",
+        "scoutingrecordsid": 208289,
+        "cropdescription": "Soybeans",
+        "plantstage": "R6",
+        "comments": "Big part of field, midfield. Overall soys look good. This spot soys look good, dark color, taller (43\" tall).  drought stress not hitting these soys hard. Rows canopied. Visible differences",
+        "scoutingrecordthreshold": false,
+        "fn": 42,
+        "fieldname": "field41",
+        "acres": "27.30",
+        "farmnumber": 12,
+        "observations": [
+            {
+                "category": "Insect",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "pest": "Soybean Aphid",
+                "pestcount": 0.0,
+                "pestdenominator": 3.0,
+                "pestdenominatorunits": null
+            },
+            {
+                "category": "Plant Health/Diseases",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "disease": null,
+                "severity": 1,
+                "extent": "Throughout"
+            }
+        ]
+    }
+]

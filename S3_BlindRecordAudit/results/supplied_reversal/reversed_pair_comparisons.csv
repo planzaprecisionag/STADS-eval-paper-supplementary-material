@@ -1,0 +1,76 @@
+reviewer,pair_id,orientation_known,presentation_1_primary_is_inside,presentation_2_primary_is_inside,presentation_1_side,presentation_2_side,anomaly_1,anomaly_2,anomaly_exact_agreement,supportive_1,supportive_2,confirmed_only_1,confirmed_only_2,support_score_1,support_score_2,anomaly_conf_1,anomaly_conf_2,anomaly_conf_score_1,anomaly_conf_score_2,direction_1,direction_2,direction_2_reoriented,direction_corrected_agreement,expected_binary_direction_flip
+R1,BL-036,True,True,False,b,a,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Low,Low,1,1,Negative,Positive,Negative,True,True
+R1,BL-039,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Low,Low,1,1,Negative,Positive,Negative,True,True
+R1,BL-071,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-073,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R1,BL-079,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-080,True,True,False,b,a,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-081,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R1,BL-083,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-084,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-085,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R1,BL-087,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R1,BL-088,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R1,BL-089,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R1,BL-090,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R1,BL-091,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-036,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-039,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-071,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R2,BL-073,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-079,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R2,BL-080,True,True,False,b,a,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R2,BL-081,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-083,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R2,BL-084,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R2,BL-085,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-087,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-088,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-089,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R2,BL-090,True,True,False,a,b,Confirmed,Not Confirmed,False,1.0,0.0,1.0,0.0,1.0,0.0,High,High,3,3,Negative,Indeterminate,Indeterminate,False,
+R2,BL-091,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R3,BL-036,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R3,BL-039,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Medium,Medium,2,2,Negative,Negative,Positive,False,False
+R3,BL-071,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R3,BL-073,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R3,BL-079,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Medium,Medium,2,2,Negative,Negative,Positive,False,False
+R3,BL-080,True,True,False,b,a,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R3,BL-081,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Low,Low,1,1,Positive,Positive,Negative,False,False
+R3,BL-083,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R3,BL-084,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R3,BL-085,True,True,False,b,a,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Medium,Medium,2,2,Negative,Negative,Positive,False,False
+R3,BL-087,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R3,BL-088,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R3,BL-089,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R3,BL-090,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R3,BL-091,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R4,BL-036,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-039,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,Medium,Medium,2,2,Negative,Positive,Negative,True,True
+R4,BL-071,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R4,BL-073,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-079,True,True,False,a,b,Possibly Confirmed,Possibly Confirmed,True,1.0,1.0,0.0,0.0,0.5,0.5,Medium,Medium,2,2,Positive,Negative,Positive,True,True
+R4,BL-080,True,True,False,b,a,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,High,2,3,Indeterminate,Indeterminate,Indeterminate,True,
+R4,BL-081,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-083,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R4,BL-084,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,Medium,Medium,2,2,Indeterminate,Indeterminate,Indeterminate,True,
+R4,BL-085,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-087,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-088,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-089,True,True,False,b,a,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R4,BL-090,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Negative,Positive,False,False
+R4,BL-091,True,True,False,a,b,Confirmed,Confirmed,True,1.0,1.0,1.0,1.0,1.0,1.0,High,High,3,3,Negative,Positive,Negative,True,True
+R5,BL-036,True,True,False,b,a,Excluded,Confirmed,False,,1.0,,1.0,,1.0,Low,Low,1,1,Negative,Negative,Positive,False,False
+R5,BL-039,True,True,False,a,b,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-071,True,True,False,a,b,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-073,True,True,False,b,a,Excluded,Excluded,True,,,,,,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-079,True,True,False,a,b,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,Medium,3,2,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-080,True,True,False,b,a,Not Confirmed,Not Confirmed,True,0.0,0.0,0.0,0.0,0.0,0.0,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-081,True,True,False,a,b,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,Medium,High,2,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-083,True,True,False,a,b,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-084,True,True,False,a,b,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-085,True,True,False,b,a,Not Confirmed,Excluded,False,0.0,,0.0,,0.0,,Medium,High,2,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-087,True,True,False,b,a,Possibly Confirmed,Excluded,False,1.0,,0.0,,0.5,,Medium,High,2,3,Negative,Indeterminate,Indeterminate,False,
+R5,BL-088,True,True,False,a,b,Excluded,Excluded,True,,,,,,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-089,True,True,False,b,a,Possibly Confirmed,Confirmed,False,1.0,1.0,0.0,1.0,0.5,1.0,Medium,High,2,3,Negative,Negative,Positive,False,False
+R5,BL-090,True,True,False,a,b,Excluded,Excluded,True,,,,,,,High,High,3,3,Indeterminate,Indeterminate,Indeterminate,True,
+R5,BL-091,True,True,False,a,b,Possibly Confirmed,Excluded,False,1.0,,0.0,,0.5,,High,High,3,3,Negative,Indeterminate,Indeterminate,False,

@@ -1,0 +1,156 @@
+[
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 13:42:11.650923",
+        "reportid": "76197c6d-a536-402f-b81d-d35ce93b9d54",
+        "scoutingrecordsid": 199994,
+        "cropdescription": "Soybeans",
+        "plantstage": "R1",
+        "comments": "Soybeans looks great, uniform stand. Resprayed, and weeds are not an issue. Treated with a foliar and fungicide (same pass). Beans are 22-24\" tall, excellent nodulation. Multiple flowers per stem. Slight Japanese beetle feeding damage.",
+        "scoutingrecordthreshold": false,
+        "fn": 36,
+        "fieldname": "field36",
+        "acres": "19.00",
+        "farmnumber": 9,
+        "observations": []
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 13:42:11.650923",
+        "reportid": "76197c6d-a536-402f-b81d-d35ce93b9d54",
+        "scoutingrecordsid": 199995,
+        "cropdescription": "Soybeans",
+        "plantstage": "R1",
+        "comments": "Soybeans looks great, uniform stand. Resprayed, and weeds are not an issue. Treated with a foliar and fungicide (same pass). Beans in this spot have a lower population and are shorter 12-18\" tall. Still excellent nodulation. Multiple flowers per stem. Slight Japanese beetle feeding damage. Visible differences in population and heights of plants.",
+        "scoutingrecordthreshold": false,
+        "fn": 36,
+        "fieldname": "field36",
+        "acres": "19.00",
+        "farmnumber": 9,
+        "observations": []
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 14:14:28.295870",
+        "reportid": "46cd91ca-ee38-4c07-ba83-70ec5358ebd4",
+        "scoutingrecordsid": 200042,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V6",
+        "comments": "Corn looks good. This point selection is in a low lying wetter area of the field. Corn is shorter and off color due to water sat here longer. Height is 18\" tall. Weed control is good.",
+        "scoutingrecordthreshold": false,
+        "fn": 37,
+        "fieldname": "field37",
+        "acres": "29.00",
+        "farmnumber": 10,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 25000.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 14:14:28.295870",
+        "reportid": "46cd91ca-ee38-4c07-ba83-70ec5358ebd4",
+        "scoutingrecordsid": 200043,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V8",
+        "comments": "Corn looks good. This point selection is not in the low lying wetter area of the field, out of that zone. Corn is taller and darker green.  Height is 36\" tall. Weed control is good. Visible contrast between points.",
+        "scoutingrecordthreshold": false,
+        "fn": 37,
+        "fieldname": "field37",
+        "acres": "29.00",
+        "farmnumber": 10,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 14:14:28.295870",
+        "reportid": "46cd91ca-ee38-4c07-ba83-70ec5358ebd4",
+        "scoutingrecordsid": 200042,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V6",
+        "comments": "Corn looks good. This point selection is in a low lying wetter area of the field. Corn is shorter and off color due to water sat here longer. Height is 18\" tall. Weed control is good.",
+        "scoutingrecordthreshold": false,
+        "fn": 37,
+        "fieldname": "field37",
+        "acres": "29.00",
+        "farmnumber": 10,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": 25000.0,
+                "populationtext": null,
+                "tillers": null
+            },
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    },
+    {
+        "scout": "scout7",
+        "submissiontimestamp": "2025-07-21 14:14:28.295870",
+        "reportid": "46cd91ca-ee38-4c07-ba83-70ec5358ebd4",
+        "scoutingrecordsid": 200043,
+        "cropdescription": "Corn Grain",
+        "plantstage": "V8",
+        "comments": "Corn looks good. This point selection is not in the low lying wetter area of the field, out of that zone. Corn is taller and darker green.  Height is 36\" tall. Weed control is good. Visible contrast between points.",
+        "scoutingrecordthreshold": false,
+        "fn": 37,
+        "fieldname": "field37",
+        "acres": "29.00",
+        "farmnumber": 10,
+        "observations": [
+            {
+                "category": "Population",
+                "x": "-redacted-",
+                "y": "-redacted-",
+                "picture_url": "-redacted-",
+                "observation_threshold": false,
+                "populationcount": null,
+                "populationtext": null,
+                "tillers": null
+            }
+        ]
+    }
+]

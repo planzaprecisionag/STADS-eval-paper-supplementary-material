@@ -1,0 +1,58 @@
+public_pair_id,public_field_cluster_id,crop,inside_comparison,outside_comparison,anomaly_confirmation_evaluable,anomaly_confirmed,observed_direction,stads_direction,direction_evaluable,direction_agreement,composite_evaluable,composite_classification
+RTK-002,RTKF-004,Corn silage,,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-003,RTKF-004,Corn silage,,Worse,true,true,Positive,Negative,true,false,true,Presence-only correspondence
+RTK-004,RTKF-001,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-006,RTKF-003,Soybean,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-008,RTKF-003,Corn silage,Better,Better,true,true,Indeterminate,Negative,false,,true,Presence-only correspondence
+RTK-010,RTKF-013,Corn silage,,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-011,RTKF-013,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-012,RTKF-005,Corn silage,,Worse,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-013,RTKF-005,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-014,RTKF-005,Corn silage,Same,,true,false,Same,Positive,false,,true,No correspondence
+RTK-015,RTKF-005,Corn silage,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-016,RTKF-005,Corn silage,,Worse,true,true,Positive,Negative,true,false,true,Presence-only correspondence
+RTK-018,RTKF-008,Corn silage,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-019,RTKF-008,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-020,RTKF-008,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-021,RTKF-008,Corn silage,,Same,true,false,Same,Positive,false,,true,No correspondence
+RTK-023,RTKF-008,Corn silage,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-024,RTKF-008,Corn silage,,Better,true,true,Negative,Positive,true,false,true,Presence-only correspondence
+RTK-025,RTKF-009,Corn silage,Worse,,true,true,Negative,Positive,true,false,true,Presence-only correspondence
+RTK-026,RTKF-014,Soybean,Better,Worse,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-027,RTKF-014,Soybean,,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-028,RTKF-014,Soybean,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-030,RTKF-002,Soybean,Same,Worse,false,,Indeterminate,Positive,false,,false,
+RTK-031,RTKF-007,Soybean,Better,,true,true,Positive,Negative,true,false,true,Presence-only correspondence
+RTK-032,RTKF-007,Soybean,Same,Same,true,false,Same,Negative,false,,true,No correspondence
+RTK-033,RTKF-012,Soybean,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-034,RTKF-012,Soybean,Same,,true,false,Same,Positive,false,,true,No correspondence
+RTK-035,RTKF-010,Soybean,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-036,RTKF-010,Soybean,,Same,true,false,Same,Positive,false,,true,No correspondence
+RTK-037,RTKF-006,Soybean,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-038,RTKF-006,Soybean,Same,Worse,false,,Indeterminate,Positive,false,,false,
+RTK-039,RTKF-006,Soybean,Same,,true,false,Same,Negative,false,,true,No correspondence
+RTK-040,RTKF-006,Soybean,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-041,RTKF-006,Soybean,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-042,RTKF-006,Soybean,,Worse,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-043,RTKF-006,Soybean,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-044,RTKF-006,Soybean,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-045,RTKF-006,Soybean,Same,Same,true,false,Same,Positive,false,,true,No correspondence
+RTK-046,RTKF-011,Soybean,Same,Worse,false,,Indeterminate,Positive,false,,false,
+RTK-047,RTKF-011,Soybean,Worse,,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-048,RTKF-011,Soybean,,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-049,RTKF-011,Soybean,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-051,RTKF-007,Soybean,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-052,RTKF-016,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-053,RTKF-016,Corn silage,,Worse,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-054,RTKF-016,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-055,RTKF-016,Corn silage,,Worse,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-059,RTKF-017,Corn silage,Worse,Same,false,,Indeterminate,Positive,false,,false,
+RTK-060,RTKF-017,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-061,RTKF-017,Corn silage,,Same,true,false,Same,Positive,false,,true,No correspondence
+RTK-062,RTKF-017,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-063,RTKF-017,Corn silage,,Better,true,true,Negative,Positive,true,false,true,Presence-only correspondence
+RTK-064,RTKF-017,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
+RTK-073,RTKF-015,Corn silage,Same,,true,false,Same,Negative,false,,true,No correspondence
+RTK-074,RTKF-015,Corn silage,,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-075,RTKF-015,Corn silage,Worse,Better,true,true,Negative,Negative,true,true,true,Full correspondence
+RTK-076,RTKF-015,Corn silage,Better,,true,true,Positive,Positive,true,true,true,Full correspondence
